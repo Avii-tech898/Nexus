@@ -1,0 +1,21 @@
+store_id,store_name,store_type,city,state,country,region,opening_date,store_status
+1,NEXUS Store 001,Warehouse,Delhi,India,India,North,2021-01-31,Active
+2,NEXUS Store 002,Retail,Chennai,India,India,South,2019-02-24,Active
+3,NEXUS Store 003,Warehouse,Bhopal,India,India,Central,2022-09-25,Active
+4,NEXUS Store 004,Retail,Delhi,India,India,North,2020-06-14,Active
+5,NEXUS Store 005,Warehouse,Bengaluru,India,India,South,2020-03-25,Active
+6,NEXUS Store 006,Retail,Raipur,India,India,Central,2023-01-14,Active
+7,NEXUS Store 007,Retail,Nagpur,India,India,Central,2019-10-16,Active
+8,NEXUS Store 008,Retail,Ahmedabad,India,India,West,2019-09-29,Active
+9,NEXUS Store 009,Retail,Hyderabad,India,India,South,2019-01-15,Active
+10,NEXUS Store 010,Retail,Mumbai,India,India,West,2021-11-09,Active
+11,NEXUS Store 011,Retail,Nagpur,India,India,Central,2023-02-25,Active
+12,NEXUS Store 012,Retail,Bhopal,India,India,Central,2018-11-19,Active
+13,NEXUS Store 013,Warehouse,Nagpur,India,India,Central,2022-01-21,Active
+14,NEXUS Store 014,Warehouse,Indore,India,India,Central,2018-10-12,Active
+15,NEXUS Store 015,Retail,Lucknow,India,India,North,2018-11-23,Active
+16,NEXUS Store 016,Retail,Bengaluru,India,India,South,2021-02-12,Active
+17,NEXUS Store 017,Retail,Ahmedabad,India,India,West,2022-02-25,Active
+18,NEXUS Store 018,Warehouse,Bhubaneswar,India,India,East,2020-12-29,Active
+19,NEXUS Store 019,Warehouse,Lucknow,India,India,North,2020-09-29,Active
+20,NEXUS Store 020,Retail,Kochi,India,India,South,2021-01-10,Active

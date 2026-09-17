@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,brand,unit_cost,selling_price,supplier_name,launch_date,product_status
+1,Whirlpool Household Essentials Model-0001,Grocery,Household Essentials,Whirlpool,3241.76,3628.51,Supplier-007,2022-08-31,Active
+2,NEXUS Cricket Model-0002,Sports,Cricket,NEXUS,43688.23,76394.93,Supplier-016,2022-12-01,Active
+3,Philips Microwaves Model-0003,Home Appliances,Microwaves,Philips,27399.28,43470.0,Supplier-026,2020-01-26,Active
+4,Nike Beverages Model-0004,Grocery,Beverages,Nike,34842.93,45692.74,Supplier-048,2025-04-02,Active
+5,Nike Women Clothing Model-0005,Fashion,Women Clothing,Nike,15651.75,25962.08,Supplier-043,2025-03-28,Active
+6,Whirlpool Fragrances Model-0006,Beauty,Fragrances,Whirlpool,19337.03,32520.87,Supplier-039,2024-06-19,Active
+7,Sony Washing Machines Model-0007,Home Appliances,Washing Machines,Sony,29226.42,35843.35,Supplier-024,2020-02-10,Active
+8,Boat Outdoor Model-0008,Sports,Outdoor,Boat,40517.23,46897.72,Supplier-049,2022-03-06,Active
+9,Adidas Smart Watches Model-0009,Electronics,Smart Watches,Adidas,42576.67,61804.18,Supplier-001,2025-02-25,Active
+10,Dell Football Model-0010,Sports,Football,Dell,1791.25,2841.22,Supplier-043,2020-11-06,Active
+11,Whirlpool Beverages Model-0011,Grocery,Beverages,Whirlpool,26255.8,32813.85,Supplier-044,2020-09-10,Active
+12,Dell Footwear Model-0012,Fashion,Footwear,Dell,25578.17,35202.17,Supplier-031,2022-02-03,Active
+13,Sony Accessories Model-0013,Electronics,Accessories,Sony,589.58,701.82,Supplier-003,2020-12-24,Discontinued
+14,Apple Men Clothing Model-0014,Fashion,Men Clothing,Apple,17555.13,25186.17,Supplier-008,2020-11-16,Active
+15,Adidas Fragrances Model-0015,Beauty,Fragrances,Adidas,43462.54,62755.39,Supplier-012,2022-01-30,Active
+16,Puma Kitchen Appliances Model-0016,Home Appliances,Kitchen Appliances,Puma,46200.81,74350.75,Supplier-045,2022-10-14,Discontinued
+17,Samsung Packaged Food Model-0017,Grocery,Packaged Food,Samsung,2825.07,4965.02,Supplier-037,2023-12-20,Active
+18,LG Beverages Model-0018,Grocery,Beverages,LG,9147.22,13809.81,Supplier-045,2023-01-16,Active
+19,Lenovo Men Clothing Model-0019,Fashion,Men Clothing,Lenovo,37141.32,52090.19,Supplier-006,2023-11-16,Active
+20,LG Washing Machines Model-0020,Home Appliances,Washing Machines,LG,2728.76,4130.41,Supplier-025,2023-02-10,Active
+21,Philips Skincare Model-0021,Beauty,Skincare,Philips,9487.26,16665.28,Supplier-011,2023-11-28,Active
+22,Nike Men Clothing Model-0022,Fashion,Men Clothing,Nike,11046.89,18377.28,Supplier-008,2025-05-30,Active
+23,Lenovo Accessories Model-0023,Fashion,Accessories,Lenovo,3124.71,4189.77,Supplier-033,2021-12-17,Active
+24,Philips Fitness Equipment Model-0024,Sports,Fitness Equipment,Philips,20754.16,34565.44,Supplier-029,2025-10-03,Active
+25,Sony Skincare Model-0025,Beauty,Skincare,Sony,17072.85,30269.48,Supplier-046,2023-06-11,Active
+26,Nike Washing Machines Model-0026,Home Appliances,Washing Machines,Nike,7833.45,8943.08,Supplier-045,2024-01-06,Active
+27,Puma Sportswear Model-0027,Sports,Sportswear,Puma,18254.65,29873.78,Supplier-038,2022-02-04,Active
+28,Lenovo Smart Watches Model-0028,Electronics,Smart Watches,Lenovo,9424.32,16204.3,Supplier-042,2021-10-05,Active
+29,Lenovo Cricket Model-0029,Sports,Cricket,Lenovo,21580.09,32440.52,Supplier-048,2020-10-21,Active
+30,LG Smart Watches Model-0030,Electronics,Smart Watches,LG,45717.25,71072.0,Supplier-015,2025-05-20,Active
+31,Lenovo Football Model-0031,Sports,Football,Lenovo,3659.28,5278.2,Supplier-025,2025-04-29,Active
+32,LG Skincare Model-0032,Beauty,Skincare,LG,7332.98,9567.55,Supplier-003,2021-11-09,Active
+33,Philips Smartphones Model-0033,Electronics,Smartphones,Philips,10403.26,15445.92,Supplier-012,2020-03-17,Active
+34,Nike Snacks Model-0034,Grocery,Snacks,Nike,35500.53,54888.32,Supplier-037,2022-08-31,Active
+35,Apple Men Clothing Model-0035,Fashion,Men Clothing,Apple,16543.25,27954.63,Supplier-006,2020-10-07,Active
+36,Sony Beverages Model-0036,Grocery,Beverages,Sony,2779.8,4657.36,Supplier-006,2022-08-01,Active
+37,Philips Kitchen Appliances Model-0037,Home Appliances,Kitchen Appliances,Philips,26022.15,43496.2,Supplier-034,2025-01-18,Active
+38,Prestige Laptops Model-0038,Electronics,Laptops,Prestige,47126.95,76521.62,Supplier-020,2021-07-30,Active
+39,Dell Household Essentials Model-0039,Grocery,Household Essentials,Dell,20015.98,34579.22,Supplier-048,2020-01-29,Active
+40,HP Fragrances Model-0040,Beauty,Fragrances,HP,21402.41,25898.95,Supplier-030,2025-02-13,Active
+41,Philips Household Essentials Model-0041,Grocery,Household Essentials,Philips,39168.57,47175.64,Supplier-016,2020-09-25,Active
+42,Whirlpool Packaged Food Model-0042,Grocery,Packaged Food,Whirlpool,15486.7,17773.65,Supplier-008,2025-03-01,Active
+43,Philips Footwear Model-0043,Fashion,Footwear,Philips,33663.97,44927.43,Supplier-045,2021-05-12,Active
+44,Nike Footwear Model-0044,Fashion,Footwear,Nike,47278.09,74215.67,Supplier-014,2022-12-01,Active
+45,Lenovo Microwaves Model-0045,Home Appliances,Microwaves,Lenovo,27864.83,40526.23,Supplier-024,2023-09-19,Active
+46,Philips Accessories Model-0046,Electronics,Accessories,Philips,30355.33,46849.91,Supplier-007,2024-12-22,Active
+47,Dell Accessories Model-0047,Electronics,Accessories,Dell,22710.6,33493.63,Supplier-016,2020-11-24,Active
+48,Puma Outdoor Model-0048,Sports,Outdoor,Puma,14442.17,24215.99,Supplier-045,2020-02-15,Active
+49,Whirlpool Haircare Model-0049,Beauty,Haircare,Whirlpool,41014.59,52319.21,Supplier-032,2025-08-03,Active
+50,Lenovo Snacks Model-0050,Grocery,Snacks,Lenovo,22552.32,31672.75,Supplier-015,2024-02-18,Active
+51,Philips Accessories Model-0051,Fashion,Accessories,Philips,4076.69,6891.96,Supplier-008,2020-02-17,Active
+52,Apple Fitness Equipment Model-0052,Sports,Fitness Equipment,Apple,21413.38,25266.25,Supplier-039,2025-10-31,Active
+53,Apple Makeup Model-0053,Beauty,Makeup,Apple,49913.01,69627.87,Supplier-050,2022-04-05,Active
+54,Apple Snacks Model-0054,Grocery,Snacks,Apple,48441.29,83257.08,Supplier-045,2023-11-13,Active
+55,Nike Smart Watches Model-0055,Electronics,Smart Watches,Nike,30832.48,49310.63,Supplier-002,2025-07-14,Active
+56,Adidas Footwear Model-0056,Fashion,Footwear,Adidas,5887.99,9324.88,Supplier-019,2022-01-10,Active
+57,Lenovo Smart Watches Model-0057,Electronics,Smart Watches,Lenovo,47759.87,54715.65,Supplier-040,2020-02-26,Active
+58,Apple Cricket Model-0058,Sports,Cricket,Apple,25928.02,46121.52,Supplier-019,2021-11-02,Discontinued
+59,Whirlpool Microwaves Model-0059,Home Appliances,Microwaves,Whirlpool,20514.56,35723.48,Supplier-030,2021-05-03,Active
+60,Lenovo Smart Watches Model-0060,Electronics,Smart Watches,Lenovo,45685.28,71063.14,Supplier-019,2025-06-20,Active
+61,NEXUS Outdoor Model-0061,Sports,Outdoor,NEXUS,38542.51,55328.05,Supplier-013,2023-10-25,Active
+62,LG Beverages Model-0062,Grocery,Beverages,LG,36321.23,64455.04,Supplier-022,2024-01-19,Active
+63,Sony Laptops Model-0063,Electronics,Laptops,Sony,11398.78,19746.23,Supplier-027,2024-03-06,Active
+64,Sony Washing Machines Model-0064,Home Appliances,Washing Machines,Sony,9251.55,12866.2,Supplier-015,2023-12-07,Active
+65,Philips Fragrances Model-0065,Beauty,Fragrances,Philips,25873.02,31994.43,Supplier-032,2025-04-23,Active
+66,Nike Refrigerators Model-0066,Home Appliances,Refrigerators,Nike,11576.32,17293.32,Supplier-032,2021-05-09,Active
+67,LG Packaged Food Model-0067,Grocery,Packaged Food,LG,23322.32,27469.03,Supplier-025,2024-10-08,Active
+68,Adidas Footwear Model-0068,Fashion,Footwear,Adidas,36716.55,60685.6,Supplier-011,2025-11-03,Active
+69,Boat Microwaves Model-0069,Home Appliances,Microwaves,Boat,21686.38,32929.62,Supplier-020,2024-02-28,Active
+70,Puma Men Clothing Model-0070,Fashion,Men Clothing,Puma,19713.58,34867.93,Supplier-038,2023-05-13,Active
+71,Philips Washing Machines Model-0071,Home Appliances,Washing Machines,Philips,9522.27,14353.02,Supplier-001,2020-05-03,Active
+72,Boat Outdoor Model-0072,Sports,Outdoor,Boat,8825.32,13728.33,Supplier-037,2022-02-13,Active
+73,Lenovo Refrigerators Model-0073,Home Appliances,Refrigerators,Lenovo,1555.85,2096.83,Supplier-028,2023-10-30,Active
+74,Philips Washing Machines Model-0074,Home Appliances,Washing Machines,Philips,21498.15,25500.32,Supplier-047,2020-07-14,Active
+75,HP Skincare Model-0075,Beauty,Skincare,HP,5490.85,9316.09,Supplier-050,2024-11-01,Active
+76,HP Smart Watches Model-0076,Electronics,Smart Watches,HP,16698.1,24691.22,Supplier-024,2020-11-04,Active
+77,Nike Men Clothing Model-0077,Fashion,Men Clothing,Nike,32239.29,55961.89,Supplier-016,2023-12-21,Active
+78,Apple Accessories Model-0078,Electronics,Accessories,Apple,26492.79,40031.47,Supplier-019,2020-09-18,Active
+79,Philips Washing Machines Model-0079,Home Appliances,Washing Machines,Philips,15706.52,21745.39,Supplier-015,2022-07-31,Active
+80,Whirlpool Fitness Equipment Model-0080,Sports,Fitness Equipment,Whirlpool,43844.81,55075.52,Supplier-010,2021-01-14,Active
+81,Prestige Beverages Model-0081,Grocery,Beverages,Prestige,5370.23,9114.31,Supplier-012,2025-12-29,Active
+82,Whirlpool Refrigerators Model-0082,Home Appliances,Refrigerators,Whirlpool,35053.87,40379.87,Supplier-010,2025-01-31,Active
+83,Prestige Headphones Model-0083,Electronics,Headphones,Prestige,32088.66,37264.04,Supplier-030,2024-09-14,Active
+84,Puma Cricket Model-0084,Sports,Cricket,Puma,7115.39,12692.83,Supplier-014,2020-05-24,Active
+85,Puma Fragrances Model-0085,Beauty,Fragrances,Puma,47464.25,69709.2,Supplier-047,2022-12-25,Active
+86,Apple Football Model-0086,Sports,Football,Apple,42989.55,55528.31,Supplier-033,2021-09-29,Active
+87,Whirlpool Accessories Model-0087,Fashion,Accessories,Whirlpool,10369.9,17689.24,Supplier-031,2022-04-30,Active
+88,Sony Smartphones Model-0088,Electronics,Smartphones,Sony,36453.3,47049.95,Supplier-007,2024-04-10,Active
+89,Nike Washing Machines Model-0089,Home Appliances,Washing Machines,Nike,49877.08,61030.45,Supplier-016,2020-07-10,Discontinued
+90,Apple Kitchen Appliances Model-0090,Home Appliances,Kitchen Appliances,Apple,31491.53,36606.09,Supplier-019,2020-02-18,Active
+91,LG Smartphones Model-0091,Electronics,Smartphones,LG,29424.99,35131.7,Supplier-032,2025-08-20,Active
+92,Samsung Makeup Model-0092,Beauty,Makeup,Samsung,15237.42,20472.41,Supplier-027,2022-08-26,Active
+93,Dell Skincare Model-0093,Beauty,Skincare,Dell,13109.58,20754.97,Supplier-041,2025-04-28,Active
+94,Samsung Makeup Model-0094,Beauty,Makeup,Samsung,12836.1,17477.85,Supplier-016,2023-08-08,Active
+95,Lenovo Accessories Model-0095,Fashion,Accessories,Lenovo,8351.17,10076.89,Supplier-035,2023-05-15,Active
+96,NEXUS Fragrances Model-0096,Beauty,Fragrances,NEXUS,2913.99,4198.69,Supplier-050,2020-01-06,Active
+97,Puma Laptops Model-0097,Electronics,Laptops,Puma,5482.68,6899.98,Supplier-036,2021-02-06,Active
+98,Philips Men Clothing Model-0098,Fashion,Men Clothing,Philips,39332.88,53476.38,Supplier-020,2020-08-20,Active
+99,Adidas Household Essentials Model-0099,Grocery,Household Essentials,Adidas,21793.06,32394.39,Supplier-025,2024-02-20,Active
+100,Prestige Footwear Model-0100,Fashion,Footwear,Prestige,18953.92,30150.66,Supplier-037,2025-03-27,Discontinued
+101,Puma Footwear Model-0101,Fashion,Footwear,Puma,45710.37,74696.66,Supplier-011,2022-10-04,Active
+102,Apple Smartphones Model-0102,Electronics,Smartphones,Apple,34915.41,41669.88,Supplier-040,2020-04-17,Active
+103,Adidas Smartphones Model-0103,Electronics,Smartphones,Adidas,1378.71,1932.01,Supplier-038,2023-01-12,Active
+104,Lenovo Laptops Model-0104,Electronics,Laptops,Lenovo,5550.39,6636.56,Supplier-012,2020-06-21,Active
+105,LG Microwaves Model-0105,Home Appliances,Microwaves,LG,9452.74,13824.31,Supplier-009,2023-05-01,Discontinued
+106,Philips Accessories Model-0106,Electronics,Accessories,Philips,32738.19,46627.58,Supplier-047,2025-09-28,Active
+107,Dell Men Clothing Model-0107,Fashion,Men Clothing,Dell,35790.54,63426.1,Supplier-010,2022-05-01,Active
+108,Sony Football Model-0108,Sports,Football,Sony,15837.57,18525.05,Supplier-014,2024-05-17,Active
+109,Boat Household Essentials Model-0109,Grocery,Household Essentials,Boat,12777.48,18503.86,Supplier-038,2024-01-13,Active
+110,Prestige Cricket Model-0110,Sports,Cricket,Prestige,46502.89,61600.35,Supplier-021,2022-10-08,Active
+111,Samsung Footwear Model-0111,Fashion,Footwear,Samsung,15814.68,18562.68,Supplier-019,2022-10-13,Active
+112,Sony Headphones Model-0112,Electronics,Headphones,Sony,27425.41,32609.05,Supplier-019,2022-08-21,Active
+113,Philips Packaged Food Model-0113,Grocery,Packaged Food,Philips,37863.63,61014.62,Supplier-028,2022-12-13,Active
+114,Lenovo Footwear Model-0114,Fashion,Footwear,Lenovo,7794.98,12647.54,Supplier-045,2020-07-23,Active
+115,HP Football Model-0115,Sports,Football,HP,9686.04,15951.35,Supplier-022,2025-06-12,Active
+116,Adidas Smartphones Model-0116,Electronics,Smartphones,Adidas,47821.78,84644.25,Supplier-034,2020-01-05,Active
+117,Adidas Kitchen Appliances Model-0117,Home Appliances,Kitchen Appliances,Adidas,26077.04,34750.87,Supplier-023,2020-01-28,Active
+118,Prestige Sportswear Model-0118,Sports,Sportswear,Prestige,30192.55,40481.81,Supplier-031,2020-07-07,Active
+119,Puma Accessories Model-0119,Fashion,Accessories,Puma,36301.52,62460.8,Supplier-039,2023-12-21,Active
+120,Prestige Haircare Model-0120,Beauty,Haircare,Prestige,15710.83,21190.89,Supplier-034,2022-08-29,Active
+121,Boat Laptops Model-0121,Electronics,Laptops,Boat,18183.61,23334.81,Supplier-032,2020-08-04,Active
+122,Prestige Women Clothing Model-0122,Fashion,Women Clothing,Prestige,45949.45,61466.27,Supplier-016,2022-04-04,Active
+123,Philips Air Conditioners Model-0123,Home Appliances,Air Conditioners,Philips,11323.48,12737.25,Supplier-007,2021-05-19,Active
+124,Apple Footwear Model-0124,Fashion,Footwear,Apple,28572.15,32253.1,Supplier-041,2023-03-24,Active
+125,Sony Makeup Model-0125,Beauty,Makeup,Sony,45348.1,70030.43,Supplier-014,2020-03-25,Active
+126,Prestige Fragrances Model-0126,Beauty,Fragrances,Prestige,46246.31,60903.13,Supplier-008,2024-08-27,Active
+127,Lenovo Headphones Model-0127,Electronics,Headphones,Lenovo,16229.66,22960.71,Supplier-013,2020-06-12,Active
+128,Sony Footwear Model-0128,Fashion,Footwear,Sony,20871.94,25679.16,Supplier-015,2022-03-01,Active
+129,Samsung Sportswear Model-0129,Sports,Sportswear,Samsung,34933.1,55203.8,Supplier-046,2020-07-10,Active
+130,Sony Smartphones Model-0130,Electronics,Smartphones,Sony,27180.97,38866.1,Supplier-047,2020-04-16,Active
+131,Apple Fragrances Model-0131,Beauty,Fragrances,Apple,47842.23,72766.86,Supplier-034,2021-01-20,Active
+132,Philips Football Model-0132,Sports,Football,Philips,38769.05,54936.5,Supplier-001,2024-09-01,Active
+133,Prestige Makeup Model-0133,Beauty,Makeup,Prestige,10076.52,12468.39,Supplier-006,2024-11-10,Active
+134,Sony Beverages Model-0134,Grocery,Beverages,Sony,44951.2,51523.91,Supplier-012,2025-07-01,Active
+135,Samsung Men Clothing Model-0135,Fashion,Men Clothing,Samsung,42252.07,54446.43,Supplier-024,2023-06-02,Active
+136,Nike Beverages Model-0136,Grocery,Beverages,Nike,18892.47,29003.08,Supplier-039,2025-11-04,Active
+137,Philips Sportswear Model-0137,Sports,Sportswear,Philips,43797.5,55784.74,Supplier-021,2022-05-29,Active
+138,Lenovo Microwaves Model-0138,Home Appliances,Microwaves,Lenovo,25910.43,30140.42,Supplier-022,2022-08-08,Active
+139,HP Footwear Model-0139,Fashion,Footwear,HP,20719.17,35341.33,Supplier-003,2022-04-17,Active
+140,LG Refrigerators Model-0140,Home Appliances,Refrigerators,LG,644.48,1120.74,Supplier-039,2021-07-09,Active
+141,NEXUS Household Essentials Model-0141,Grocery,Household Essentials,NEXUS,42273.33,61035.96,Supplier-033,2023-12-24,Active
+142,Adidas Footwear Model-0142,Fashion,Footwear,Adidas,2561.04,2987.74,Supplier-035,2021-01-11,Active
+143,Prestige Fragrances Model-0143,Beauty,Fragrances,Prestige,43541.1,57065.25,Supplier-025,2024-09-13,Active
+144,Puma Women Clothing Model-0144,Fashion,Women Clothing,Puma,24774.33,40469.54,Supplier-001,2022-11-19,Active
+145,Samsung Fitness Equipment Model-0145,Sports,Fitness Equipment,Samsung,891.95,1006.29,Supplier-041,2022-01-01,Active
+146,HP Makeup Model-0146,Beauty,Makeup,HP,5244.55,9172.39,Supplier-043,2025-05-06,Active
+147,Puma Packaged Food Model-0147,Grocery,Packaged Food,Puma,13369.03,18186.11,Supplier-032,2023-10-19,Active
+148,Boat Smart Watches Model-0148,Electronics,Smart Watches,Boat,37730.55,66194.71,Supplier-001,2024-01-25,Active
+149,Adidas Haircare Model-0149,Beauty,Haircare,Adidas,20563.33,28160.07,Supplier-014,2025-07-27,Active
+150,Whirlpool Women Clothing Model-0150,Fashion,Women Clothing,Whirlpool,15438.83,22962.33,Supplier-005,2020-09-04,Active
+151,LG Smartphones Model-0151,Electronics,Smartphones,LG,12612.6,14069.72,Supplier-005,2021-06-26,Active
+152,Puma Skincare Model-0152,Beauty,Skincare,Puma,48079.44,86230.84,Supplier-009,2024-03-08,Active
+153,Philips Accessories Model-0153,Fashion,Accessories,Philips,23670.04,30980.08,Supplier-007,2021-06-13,Active
+154,LG Footwear Model-0154,Fashion,Footwear,LG,4763.92,8484.39,Supplier-012,2025-06-14,Active
+155,Samsung Sportswear Model-0155,Sports,Sportswear,Samsung,49078.96,75355.28,Supplier-004,2023-03-22,Discontinued
+156,Sony Skincare Model-0156,Beauty,Skincare,Sony,21683.91,25532.83,Supplier-005,2024-09-06,Active
+157,Dell Men Clothing Model-0157,Fashion,Men Clothing,Dell,7722.23,13213.71,Supplier-045,2025-12-15,Active
+158,Prestige Air Conditioners Model-0158,Home Appliances,Air Conditioners,Prestige,29762.46,34543.04,Supplier-023,2023-11-10,Active
+159,Whirlpool Haircare Model-0159,Beauty,Haircare,Whirlpool,38274.39,47345.28,Supplier-003,2025-11-05,Active
+160,LG Kitchen Appliances Model-0160,Home Appliances,Kitchen Appliances,LG,35247.72,59526.76,Supplier-038,2024-01-15,Active
+161,Nike Skincare Model-0161,Beauty,Skincare,Nike,30790.02,47382.51,Supplier-015,2023-02-11,Active
+162,Prestige Accessories Model-0162,Fashion,Accessories,Prestige,10555.94,16480.13,Supplier-025,2022-12-04,Active
+163,Whirlpool Household Essentials Model-0163,Grocery,Household Essentials,Whirlpool,16978.79,20117.54,Supplier-007,2020-12-06,Active
+164,Whirlpool Women Clothing Model-0164,Fashion,Women Clothing,Whirlpool,8353.88,9622.11,Supplier-041,2025-12-15,Active
+165,Philips Packaged Food Model-0165,Grocery,Packaged Food,Philips,26673.89,32402.49,Supplier-028,2025-11-27,Active
+166,Dell Accessories Model-0166,Electronics,Accessories,Dell,27677.67,33798.55,Supplier-010,2022-08-29,Active
+167,Sony Smartphones Model-0167,Electronics,Smartphones,Sony,32864.05,43711.63,Supplier-011,2021-12-08,Active
+168,Adidas Footwear Model-0168,Fashion,Footwear,Adidas,22534.45,28085.21,Supplier-031,2024-07-05,Active
+169,Whirlpool Smartphones Model-0169,Electronics,Smartphones,Whirlpool,41674.34,48368.89,Supplier-049,2022-05-28,Active
+170,NEXUS Accessories Model-0170,Fashion,Accessories,NEXUS,42490.76,52332.24,Supplier-033,2021-02-09,Active
+171,Sony Women Clothing Model-0171,Fashion,Women Clothing,Sony,22003.02,30953.01,Supplier-018,2023-11-07,Active
+172,Boat Men Clothing Model-0172,Fashion,Men Clothing,Boat,38008.06,47976.13,Supplier-042,2022-03-04,Active
+173,Lenovo Makeup Model-0173,Beauty,Makeup,Lenovo,49210.78,83103.03,Supplier-030,2024-05-25,Active
+174,Whirlpool Snacks Model-0174,Grocery,Snacks,Whirlpool,18641.05,27857.23,Supplier-027,2024-05-20,Active
+175,Dell Footwear Model-0175,Fashion,Footwear,Dell,33673.94,39232.57,Supplier-029,2021-08-17,Active
+176,LG Makeup Model-0176,Beauty,Makeup,LG,3919.36,4905.76,Supplier-004,2021-04-10,Active
+177,Boat Headphones Model-0177,Electronics,Headphones,Boat,45567.62,55232.52,Supplier-012,2021-05-29,Active
+178,Adidas Cricket Model-0178,Sports,Cricket,Adidas,10101.87,11810.77,Supplier-026,2023-07-23,Active
+179,Prestige Footwear Model-0179,Fashion,Footwear,Prestige,41370.34,61354.94,Supplier-001,2023-09-27,Active
+180,Philips Smartphones Model-0180,Electronics,Smartphones,Philips,16325.06,20525.8,Supplier-048,2020-02-25,Active
+181,Apple Packaged Food Model-0181,Grocery,Packaged Food,Apple,8059.25,13272.27,Supplier-030,2024-06-17,Active
+182,HP Outdoor Model-0182,Sports,Outdoor,HP,1961.08,3021.26,Supplier-030,2024-10-10,Active
+183,Sony Snacks Model-0183,Grocery,Snacks,Sony,5125.08,7632.23,Supplier-032,2020-03-31,Discontinued
+184,Boat Outdoor Model-0184,Sports,Outdoor,Boat,26014.15,30008.52,Supplier-029,2022-12-04,Active
+185,Puma Fitness Equipment Model-0185,Sports,Fitness Equipment,Puma,42394.69,48632.58,Supplier-021,2024-11-10,Active
+186,Philips Outdoor Model-0186,Sports,Outdoor,Philips,44979.38,63029.09,Supplier-035,2025-12-31,Active
+187,Philips Football Model-0187,Sports,Football,Philips,8977.12,11139.84,Supplier-036,2024-02-14,Active
+188,Boat Packaged Food Model-0188,Grocery,Packaged Food,Boat,30636.9,51035.63,Supplier-005,2023-10-13,Active
+189,Dell Men Clothing Model-0189,Fashion,Men Clothing,Dell,18448.25,20527.13,Supplier-033,2023-10-24,Active
+190,Samsung Snacks Model-0190,Grocery,Snacks,Samsung,19087.96,31464.71,Supplier-032,2025-12-31,Active
+191,Philips Men Clothing Model-0191,Fashion,Men Clothing,Philips,38756.18,45798.67,Supplier-017,2024-07-11,Active
+192,Boat Makeup Model-0192,Beauty,Makeup,Boat,32976.72,52336.65,Supplier-025,2023-07-20,Active
+193,Samsung Washing Machines Model-0193,Home Appliances,Washing Machines,Samsung,49388.11,87985.05,Supplier-049,2023-03-22,Discontinued
+194,Philips Football Model-0194,Sports,Football,Philips,9899.05,15421.35,Supplier-043,2024-04-16,Active
+195,Samsung Accessories Model-0195,Fashion,Accessories,Samsung,48285.27,80598.63,Supplier-041,2023-12-17,Active
+196,Puma Smartphones Model-0196,Electronics,Smartphones,Puma,27395.96,35740.62,Supplier-005,2021-08-20,Active
+197,LG Men Clothing Model-0197,Fashion,Men Clothing,LG,11136.78,18177.19,Supplier-035,2022-02-13,Active
+198,Prestige Snacks Model-0198,Grocery,Snacks,Prestige,14845.15,21166.03,Supplier-004,2023-01-31,Active
+199,Lenovo Haircare Model-0199,Beauty,Haircare,Lenovo,45687.68,54868.54,Supplier-037,2021-10-19,Active
+200,Sony Packaged Food Model-0200,Grocery,Packaged Food,Sony,22164.96,26990.4,Supplier-001,2024-01-13,Active
+201,LG Football Model-0201,Sports,Football,LG,22026.13,26322.63,Supplier-003,2024-11-06,Active
+202,Prestige Footwear Model-0202,Fashion,Footwear,Prestige,29137.81,32355.55,Supplier-037,2025-07-31,Active
+203,Boat Laptops Model-0203,Electronics,Laptops,Boat,16250.1,20625.03,Supplier-050,2022-11-12,Active
+204,Philips Fitness Equipment Model-0204,Sports,Fitness Equipment,Philips,38422.21,56156.15,Supplier-001,2024-06-29,Active
+205,Nike Kitchen Appliances Model-0205,Home Appliances,Kitchen Appliances,Nike,25864.07,43935.78,Supplier-004,2023-02-13,Active
+206,Boat Football Model-0206,Sports,Football,Boat,7533.34,9861.1,Supplier-029,2020-12-11,Active
+207,Prestige Smart Watches Model-0207,Electronics,Smart Watches,Prestige,47373.5,83983.48,Supplier-029,2025-11-12,Active
+208,Nike Smartphones Model-0208,Electronics,Smartphones,Nike,37781.02,53391.84,Supplier-001,2021-11-13,Active
+209,Sony Beverages Model-0209,Grocery,Beverages,Sony,28957.02,43254.59,Supplier-032,2020-01-12,Active
+210,NEXUS Fragrances Model-0210,Beauty,Fragrances,NEXUS,43095.54,56937.99,Supplier-011,2023-05-14,Active
+211,Sony Footwear Model-0211,Fashion,Footwear,Sony,4454.71,7779.82,Supplier-009,2022-06-08,Active
+212,Prestige Smartphones Model-0212,Electronics,Smartphones,Prestige,10818.51,14959.55,Supplier-042,2022-12-17,Active
+213,LG Accessories Model-0213,Electronics,Accessories,LG,49949.74,66856.37,Supplier-050,2022-12-15,Active
+214,Philips Accessories Model-0214,Electronics,Accessories,Philips,10840.63,17174.56,Supplier-033,2021-05-14,Active
+215,Apple Laptops Model-0215,Electronics,Laptops,Apple,14000.35,15687.88,Supplier-030,2021-03-04,Active
+216,Prestige Beverages Model-0216,Grocery,Beverages,Prestige,2191.06,2917.11,Supplier-020,2023-11-15,Active
+217,Prestige Beverages Model-0217,Grocery,Beverages,Prestige,24754.16,33435.22,Supplier-039,2024-06-12,Active
+218,HP Snacks Model-0218,Grocery,Snacks,HP,48001.28,62214.43,Supplier-036,2023-05-09,Active
+219,Philips Makeup Model-0219,Beauty,Makeup,Philips,44015.06,53676.7,Supplier-011,2024-06-20,Discontinued
+220,Whirlpool Women Clothing Model-0220,Fashion,Women Clothing,Whirlpool,16801.3,22042.27,Supplier-018,2025-03-06,Active
+221,Nike Football Model-0221,Sports,Football,Nike,7020.77,9501.02,Supplier-035,2023-05-07,Active
+222,Apple Fragrances Model-0222,Beauty,Fragrances,Apple,4334.88,5223.93,Supplier-023,2020-04-14,Active
+223,Apple Skincare Model-0223,Beauty,Skincare,Apple,5115.99,8494.22,Supplier-018,2021-04-14,Active
+224,Lenovo Smartphones Model-0224,Electronics,Smartphones,Lenovo,20531.12,29142.1,Supplier-012,2021-02-18,Active
+225,Puma Haircare Model-0225,Beauty,Haircare,Puma,36716.93,42762.46,Supplier-036,2023-01-16,Active
+226,LG Fitness Equipment Model-0226,Sports,Fitness Equipment,LG,2453.12,3033.14,Supplier-020,2020-10-04,Active
+227,Nike Beverages Model-0227,Grocery,Beverages,Nike,12917.56,15855.11,Supplier-023,2023-05-01,Active
+228,Whirlpool Accessories Model-0228,Fashion,Accessories,Whirlpool,26601.96,36535.13,Supplier-010,2024-06-01,Active
+229,LG Football Model-0229,Sports,Football,LG,38372.58,63465.56,Supplier-049,2025-02-18,Active
+230,Dell Air Conditioners Model-0230,Home Appliances,Air Conditioners,Dell,10512.0,15424.93,Supplier-036,2025-07-03,Active
+231,Nike Headphones Model-0231,Electronics,Headphones,Nike,19526.21,21715.73,Supplier-029,2023-02-27,Active
+232,Boat Cricket Model-0232,Sports,Cricket,Boat,3757.68,5776.45,Supplier-043,2024-11-22,Active
+233,Lenovo Microwaves Model-0233,Home Appliances,Microwaves,Lenovo,7493.44,11531.39,Supplier-017,2021-08-15,Discontinued
+234,NEXUS Headphones Model-0234,Electronics,Headphones,NEXUS,23231.25,34633.37,Supplier-005,2022-08-04,Discontinued
+235,Whirlpool Football Model-0235,Sports,Football,Whirlpool,15689.04,18706.23,Supplier-038,2020-02-10,Active
+236,Apple Kitchen Appliances Model-0236,Home Appliances,Kitchen Appliances,Apple,11162.15,16682.99,Supplier-012,2025-03-08,Active
+237,Lenovo Sportswear Model-0237,Sports,Sportswear,Lenovo,13323.44,17431.72,Supplier-004,2024-08-31,Active
+238,LG Women Clothing Model-0238,Fashion,Women Clothing,LG,41568.16,54878.07,Supplier-029,2021-02-02,Active
+239,Apple Men Clothing Model-0239,Fashion,Men Clothing,Apple,1511.24,2561.84,Supplier-046,2024-01-14,Active
+240,Nike Men Clothing Model-0240,Fashion,Men Clothing,Nike,11182.45,14499.05,Supplier-046,2024-01-29,Active
+241,Sony Fragrances Model-0241,Beauty,Fragrances,Sony,30215.51,34918.52,Supplier-033,2020-06-21,Active
+242,Puma Refrigerators Model-0242,Home Appliances,Refrigerators,Puma,10446.7,14079.1,Supplier-032,2024-01-01,Active
+243,HP Household Essentials Model-0243,Grocery,Household Essentials,HP,13731.94,19599.65,Supplier-026,2025-03-01,Active
+244,Dell Accessories Model-0244,Fashion,Accessories,Dell,21161.55,28864.17,Supplier-029,2022-11-12,Discontinued
+245,Sony Fitness Equipment Model-0245,Sports,Fitness Equipment,Sony,15205.54,22158.81,Supplier-026,2023-02-14,Active
+246,Nike Washing Machines Model-0246,Home Appliances,Washing Machines,Nike,38959.86,47257.72,Supplier-028,2022-11-13,Active
+247,Whirlpool Washing Machines Model-0247,Home Appliances,Washing Machines,Whirlpool,34011.72,54589.55,Supplier-019,2021-06-29,Active
+248,NEXUS Skincare Model-0248,Beauty,Skincare,NEXUS,914.48,1372.21,Supplier-013,2023-07-15,Active
+249,Adidas Smartphones Model-0249,Electronics,Smartphones,Adidas,42155.11,49328.62,Supplier-040,2022-02-25,Active
+250,Puma Headphones Model-0250,Electronics,Headphones,Puma,29104.69,38589.27,Supplier-043,2020-12-16,Active
+251,Puma Air Conditioners Model-0251,Home Appliances,Air Conditioners,Puma,17735.92,27200.0,Supplier-037,2020-05-15,Active
+252,Apple Haircare Model-0252,Beauty,Haircare,Apple,12851.25,14289.54,Supplier-004,2025-08-01,Active
+253,NEXUS Packaged Food Model-0253,Grocery,Packaged Food,NEXUS,32927.95,58300.25,Supplier-021,2023-01-20,Active
+254,Sony Men Clothing Model-0254,Fashion,Men Clothing,Sony,45546.66,81254.36,Supplier-003,2021-05-30,Active
+255,LG Packaged Food Model-0255,Grocery,Packaged Food,LG,48435.97,58340.7,Supplier-003,2023-09-24,Active
+256,Apple Laptops Model-0256,Electronics,Laptops,Apple,5071.52,8390.62,Supplier-045,2021-01-31,Active
+257,HP Packaged Food Model-0257,Grocery,Packaged Food,HP,30749.37,53480.09,Supplier-024,2021-12-09,Active
+258,Lenovo Accessories Model-0258,Electronics,Accessories,Lenovo,22027.27,30912.25,Supplier-022,2023-08-14,Active
+259,Apple Air Conditioners Model-0259,Home Appliances,Air Conditioners,Apple,2398.88,3555.42,Supplier-007,2025-04-10,Active
+260,Philips Washing Machines Model-0260,Home Appliances,Washing Machines,Philips,2307.07,2939.69,Supplier-045,2023-12-25,Active
+261,Samsung Air Conditioners Model-0261,Home Appliances,Air Conditioners,Samsung,43833.08,56424.61,Supplier-045,2021-05-11,Active
+262,Dell Refrigerators Model-0262,Home Appliances,Refrigerators,Dell,20979.16,24152.91,Supplier-035,2021-05-09,Active
+263,Prestige Headphones Model-0263,Electronics,Headphones,Prestige,49294.93,73307.77,Supplier-012,2024-04-02,Active
+264,Boat Haircare Model-0264,Beauty,Haircare,Boat,822.72,975.32,Supplier-014,2022-11-20,Active
+265,Adidas Microwaves Model-0265,Home Appliances,Microwaves,Adidas,31390.61,47688.35,Supplier-030,2022-07-05,Active
+266,LG Fitness Equipment Model-0266,Sports,Fitness Equipment,LG,5949.66,9890.24,Supplier-050,2020-11-01,Discontinued
+267,Sony Microwaves Model-0267,Home Appliances,Microwaves,Sony,12831.84,20100.53,Supplier-025,2024-05-09,Active
+268,Sony Snacks Model-0268,Grocery,Snacks,Sony,46111.77,76721.52,Supplier-012,2020-11-16,Active
+269,Whirlpool Packaged Food Model-0269,Grocery,Packaged Food,Whirlpool,12967.68,21191.04,Supplier-001,2020-11-10,Active
+270,Lenovo Accessories Model-0270,Fashion,Accessories,Lenovo,5731.26,6830.43,Supplier-022,2023-02-01,Active
+271,Prestige Footwear Model-0271,Fashion,Footwear,Prestige,22642.32,28391.33,Supplier-013,2024-10-09,Active
+272,Nike Smart Watches Model-0272,Electronics,Smart Watches,Nike,25834.42,45080.96,Supplier-044,2022-02-12,Active
+273,Puma Washing Machines Model-0273,Home Appliances,Washing Machines,Puma,45434.3,58733.95,Supplier-029,2023-12-05,Active
+274,Boat Smartphones Model-0274,Electronics,Smartphones,Boat,33193.26,45493.53,Supplier-035,2021-08-04,Active
+275,Philips Footwear Model-0275,Fashion,Footwear,Philips,36923.63,53701.2,Supplier-036,2024-03-18,Active
+276,Apple Microwaves Model-0276,Home Appliances,Microwaves,Apple,26106.94,39861.23,Supplier-022,2020-01-19,Active
+277,Lenovo Refrigerators Model-0277,Home Appliances,Refrigerators,Lenovo,36908.4,42196.84,Supplier-009,2022-10-21,Discontinued
+278,Adidas Outdoor Model-0278,Sports,Outdoor,Adidas,19379.67,32103.08,Supplier-025,2024-10-11,Active
+279,Prestige Refrigerators Model-0279,Home Appliances,Refrigerators,Prestige,46134.2,75174.09,Supplier-048,2024-07-14,Active
+280,Puma Outdoor Model-0280,Sports,Outdoor,Puma,12427.37,18409.59,Supplier-030,2023-09-30,Active
+281,Dell Smartphones Model-0281,Electronics,Smartphones,Dell,4064.52,4708.56,Supplier-013,2024-01-08,Active
+282,Prestige Sportswear Model-0282,Sports,Sportswear,Prestige,30938.03,46376.87,Supplier-011,2024-12-27,Discontinued
+283,Prestige Beverages Model-0283,Grocery,Beverages,Prestige,39765.3,68428.94,Supplier-008,2023-12-09,Active
+284,NEXUS Accessories Model-0284,Fashion,Accessories,NEXUS,14764.34,18056.17,Supplier-043,2025-03-18,Active
+285,Prestige Fragrances Model-0285,Beauty,Fragrances,Prestige,1030.35,1335.75,Supplier-006,2022-04-22,Active
+286,HP Haircare Model-0286,Beauty,Haircare,HP,42347.96,70118.16,Supplier-018,2023-03-09,Active
+287,Apple Microwaves Model-0287,Home Appliances,Microwaves,Apple,2316.22,3433.59,Supplier-020,2022-05-31,Active
+288,Apple Kitchen Appliances Model-0288,Home Appliances,Kitchen Appliances,Apple,11223.27,18856.85,Supplier-040,2024-05-13,Active
+289,Whirlpool Sportswear Model-0289,Sports,Sportswear,Whirlpool,21171.56,31332.93,Supplier-010,2022-07-31,Active
+290,HP Beverages Model-0290,Grocery,Beverages,HP,14854.0,25930.02,Supplier-048,2025-08-19,Active
+291,Adidas Makeup Model-0291,Beauty,Makeup,Adidas,39536.84,65760.73,Supplier-027,2020-03-01,Active
+292,Dell Fitness Equipment Model-0292,Sports,Fitness Equipment,Dell,31823.01,55597.58,Supplier-027,2025-08-27,Active
+293,HP Makeup Model-0293,Beauty,Makeup,HP,9230.38,14013.61,Supplier-039,2023-06-26,Active
+294,HP Laptops Model-0294,Electronics,Laptops,HP,32073.08,41899.87,Supplier-019,2025-10-29,Active
+295,Boat Air Conditioners Model-0295,Home Appliances,Air Conditioners,Boat,6334.28,10218.51,Supplier-023,2020-11-26,Discontinued
+296,Lenovo Accessories Model-0296,Electronics,Accessories,Lenovo,29409.01,34627.87,Supplier-047,2022-07-20,Active
+297,Boat Accessories Model-0297,Fashion,Accessories,Boat,8123.36,9484.23,Supplier-035,2025-08-20,Discontinued
+298,Lenovo Men Clothing Model-0298,Fashion,Men Clothing,Lenovo,38693.37,64159.18,Supplier-029,2020-01-08,Active
+299,Dell Refrigerators Model-0299,Home Appliances,Refrigerators,Dell,29616.99,40394.77,Supplier-031,2021-08-09,Active
+300,Dell Beverages Model-0300,Grocery,Beverages,Dell,33162.83,42478.25,Supplier-017,2021-11-29,Discontinued
+301,Whirlpool Accessories Model-0301,Electronics,Accessories,Whirlpool,1553.84,2101.97,Supplier-040,2021-01-09,Discontinued
+302,Samsung Packaged Food Model-0302,Grocery,Packaged Food,Samsung,8142.86,12582.3,Supplier-044,2025-05-09,Active
+303,Apple Cricket Model-0303,Sports,Cricket,Apple,22234.0,30281.73,Supplier-028,2022-07-27,Active
+304,Sony Accessories Model-0304,Electronics,Accessories,Sony,39199.5,55996.86,Supplier-020,2025-02-21,Active
+305,Whirlpool Washing Machines Model-0305,Home Appliances,Washing Machines,Whirlpool,22712.24,26940.99,Supplier-045,2021-10-29,Active
+306,Samsung Haircare Model-0306,Beauty,Haircare,Samsung,36662.9,43852.88,Supplier-015,2024-02-16,Active
+307,Dell Kitchen Appliances Model-0307,Home Appliances,Kitchen Appliances,Dell,32957.4,59012.04,Supplier-040,2023-09-17,Active
+308,Dell Football Model-0308,Sports,Football,Dell,9183.15,11798.26,Supplier-010,2022-12-19,Active
+309,LG Accessories Model-0309,Fashion,Accessories,LG,11724.96,19179.39,Supplier-039,2020-09-16,Active
+310,Apple Packaged Food Model-0310,Grocery,Packaged Food,Apple,46551.92,56308.84,Supplier-011,2021-09-30,Active
+311,LG Skincare Model-0311,Beauty,Skincare,LG,18312.31,27646.1,Supplier-036,2023-03-07,Active
+312,Whirlpool Footwear Model-0312,Fashion,Footwear,Whirlpool,14315.74,17328.1,Supplier-003,2023-08-09,Active
+313,Prestige Household Essentials Model-0313,Grocery,Household Essentials,Prestige,8971.7,14796.08,Supplier-037,2021-03-29,Active
+314,Boat Household Essentials Model-0314,Grocery,Household Essentials,Boat,11991.95,18663.84,Supplier-044,2022-08-23,Active
+315,Lenovo Football Model-0315,Sports,Football,Lenovo,10853.8,13505.06,Supplier-001,2020-10-31,Active
+316,Adidas Packaged Food Model-0316,Grocery,Packaged Food,Adidas,43777.39,62772.3,Supplier-028,2022-02-12,Active
+317,Puma Men Clothing Model-0317,Fashion,Men Clothing,Puma,42697.76,50741.29,Supplier-023,2024-09-29,Active
+318,Apple Makeup Model-0318,Beauty,Makeup,Apple,27919.46,38068.36,Supplier-032,2023-03-03,Active
+319,Dell Laptops Model-0319,Electronics,Laptops,Dell,913.66,1269.69,Supplier-016,2025-10-16,Active
+320,LG Fitness Equipment Model-0320,Sports,Fitness Equipment,LG,19360.38,28226.5,Supplier-008,2025-02-12,Active
+321,Prestige Packaged Food Model-0321,Grocery,Packaged Food,Prestige,48150.87,64212.74,Supplier-049,2020-09-30,Active
+322,Adidas Household Essentials Model-0322,Grocery,Household Essentials,Adidas,27355.13,33585.16,Supplier-033,2025-10-07,Active
+323,Boat Skincare Model-0323,Beauty,Skincare,Boat,7928.73,10234.87,Supplier-027,2020-08-25,Active
+324,NEXUS Men Clothing Model-0324,Fashion,Men Clothing,NEXUS,38151.48,65084.11,Supplier-036,2021-12-07,Active
+325,Whirlpool Skincare Model-0325,Beauty,Skincare,Whirlpool,11856.63,13778.84,Supplier-006,2023-01-07,Active
+326,Boat Outdoor Model-0326,Sports,Outdoor,Boat,12974.21,14408.72,Supplier-002,2025-05-06,Active
+327,NEXUS Footwear Model-0327,Fashion,Footwear,NEXUS,40112.18,63558.11,Supplier-043,2020-10-21,Active
+328,Sony Cricket Model-0328,Sports,Cricket,Sony,40010.81,71127.26,Supplier-007,2021-02-01,Active
+329,LG Footwear Model-0329,Fashion,Footwear,LG,41741.19,53518.66,Supplier-002,2021-07-17,Active
+330,NEXUS Beverages Model-0330,Grocery,Beverages,NEXUS,5766.02,8572.48,Supplier-008,2022-07-27,Active
+331,HP Beverages Model-0331,Grocery,Beverages,HP,17602.41,20733.41,Supplier-050,2024-11-11,Active
+332,Adidas Men Clothing Model-0332,Fashion,Men Clothing,Adidas,40210.69,48366.16,Supplier-049,2022-04-20,Active
+333,HP Accessories Model-0333,Electronics,Accessories,HP,21188.89,33502.32,Supplier-031,2020-11-03,Active
+334,Whirlpool Air Conditioners Model-0334,Home Appliances,Air Conditioners,Whirlpool,47623.02,65167.0,Supplier-030,2020-02-19,Active
+335,Puma Snacks Model-0335,Grocery,Snacks,Puma,38155.06,53401.61,Supplier-022,2020-09-02,Active
+336,Adidas Men Clothing Model-0336,Fashion,Men Clothing,Adidas,4864.99,7191.8,Supplier-012,2023-02-02,Active
+337,Dell Fitness Equipment Model-0337,Sports,Fitness Equipment,Dell,14766.5,19142.05,Supplier-030,2020-03-24,Active
+338,Adidas Beverages Model-0338,Grocery,Beverages,Adidas,11333.56,16072.81,Supplier-048,2021-08-22,Active
+339,Adidas Skincare Model-0339,Beauty,Skincare,Adidas,45121.79,60951.16,Supplier-010,2023-04-04,Active
+340,Sony Smartphones Model-0340,Electronics,Smartphones,Sony,46584.19,53816.18,Supplier-036,2021-03-01,Active
+341,HP Outdoor Model-0341,Sports,Outdoor,HP,6748.91,11306.84,Supplier-024,2022-06-16,Active
+342,Boat Sportswear Model-0342,Sports,Sportswear,Boat,12069.26,15005.18,Supplier-047,2024-08-06,Active
+343,Puma Packaged Food Model-0343,Grocery,Packaged Food,Puma,1442.23,2521.22,Supplier-040,2023-01-04,Active
+344,Boat Makeup Model-0344,Beauty,Makeup,Boat,2676.77,4082.01,Supplier-014,2020-11-26,Active
+345,Adidas Fragrances Model-0345,Beauty,Fragrances,Adidas,28303.25,34708.25,Supplier-041,2022-09-26,Active
+346,Whirlpool Footwear Model-0346,Fashion,Footwear,Whirlpool,40229.22,62507.59,Supplier-039,2022-11-10,Active
+347,Dell Smart Watches Model-0347,Electronics,Smart Watches,Dell,34773.19,45770.45,Supplier-030,2025-08-19,Active
+348,Lenovo Snacks Model-0348,Grocery,Snacks,Lenovo,40302.1,67157.47,Supplier-015,2020-08-27,Active
+349,Prestige Skincare Model-0349,Beauty,Skincare,Prestige,49807.11,65581.32,Supplier-025,2023-09-13,Active
+350,Philips Laptops Model-0350,Electronics,Laptops,Philips,21153.83,35700.73,Supplier-005,2025-09-10,Active
+351,NEXUS Skincare Model-0351,Beauty,Skincare,NEXUS,25583.1,42200.96,Supplier-035,2021-02-02,Active
+352,Philips Air Conditioners Model-0352,Home Appliances,Air Conditioners,Philips,2845.74,3351.05,Supplier-019,2025-02-23,Active
+353,Nike Cricket Model-0353,Sports,Cricket,Nike,34928.99,44608.27,Supplier-021,2022-08-01,Active
+354,Adidas Sportswear Model-0354,Sports,Sportswear,Adidas,20356.42,24299.68,Supplier-045,2020-09-20,Active
+355,Prestige Men Clothing Model-0355,Fashion,Men Clothing,Prestige,4416.52,6615.0,Supplier-024,2021-06-24,Active
+356,Samsung Beverages Model-0356,Grocery,Beverages,Samsung,20389.3,27519.26,Supplier-020,2024-11-11,Active
+357,NEXUS Smartphones Model-0357,Electronics,Smartphones,NEXUS,26702.53,38950.15,Supplier-048,2025-11-04,Active
+358,Nike Fragrances Model-0358,Beauty,Fragrances,Nike,37262.72,43775.04,Supplier-016,2025-02-18,Active
+359,LG Washing Machines Model-0359,Home Appliances,Washing Machines,LG,25402.93,33738.98,Supplier-028,2022-02-16,Active
+360,Adidas Women Clothing Model-0360,Fashion,Women Clothing,Adidas,14438.31,21527.24,Supplier-047,2020-07-02,Active
+361,LG Haircare Model-0361,Beauty,Haircare,LG,23225.64,39557.35,Supplier-046,2020-10-22,Active
+362,Sony Snacks Model-0362,Grocery,Snacks,Sony,22432.31,32081.22,Supplier-016,2020-12-28,Active
+363,Lenovo Microwaves Model-0363,Home Appliances,Microwaves,Lenovo,40551.2,66819.63,Supplier-043,2023-07-28,Active
+364,Sony Beverages Model-0364,Grocery,Beverages,Sony,16576.89,24544.71,Supplier-008,2023-11-22,Active
+365,HP Cricket Model-0365,Sports,Cricket,HP,13776.69,21560.8,Supplier-032,2022-12-20,Active
+366,LG Fragrances Model-0366,Beauty,Fragrances,LG,11442.92,16256.65,Supplier-040,2025-11-07,Active
+367,Philips Smartphones Model-0367,Electronics,Smartphones,Philips,48423.07,58161.69,Supplier-049,2020-07-11,Active
+368,Adidas Fitness Equipment Model-0368,Sports,Fitness Equipment,Adidas,33339.26,54568.01,Supplier-024,2023-07-27,Active
+369,Apple Football Model-0369,Sports,Football,Apple,2349.36,2821.27,Supplier-015,2024-11-29,Active
+370,Boat Fragrances Model-0370,Beauty,Fragrances,Boat,35791.68,42652.44,Supplier-024,2023-01-15,Active
+371,Prestige Skincare Model-0371,Beauty,Skincare,Prestige,40953.3,58976.75,Supplier-001,2021-12-21,Active
+372,Apple Haircare Model-0372,Beauty,Haircare,Apple,39802.87,67163.33,Supplier-014,2020-04-26,Active
+373,Samsung Laptops Model-0373,Electronics,Laptops,Samsung,20212.35,34142.24,Supplier-028,2022-01-06,Active
+374,Philips Football Model-0374,Sports,Football,Philips,31568.61,49935.18,Supplier-031,2022-07-26,Active
+375,Dell Snacks Model-0375,Grocery,Snacks,Dell,40420.07,49275.82,Supplier-035,2023-08-22,Active
+376,Puma Footwear Model-0376,Fashion,Footwear,Puma,41212.1,63521.81,Supplier-041,2024-07-09,Discontinued
+377,Prestige Packaged Food Model-0377,Grocery,Packaged Food,Prestige,25367.57,38654.29,Supplier-016,2021-08-19,Active
+378,Sony Laptops Model-0378,Electronics,Laptops,Sony,36714.82,64060.45,Supplier-020,2021-06-02,Active
+379,Sony Packaged Food Model-0379,Grocery,Packaged Food,Sony,15052.52,23839.94,Supplier-050,2023-11-19,Active
+380,Nike Men Clothing Model-0380,Fashion,Men Clothing,Nike,15678.4,19093.97,Supplier-002,2023-06-20,Active
+381,Prestige Cricket Model-0381,Sports,Cricket,Prestige,4917.35,8616.27,Supplier-006,2024-10-05,Active
+382,Apple Football Model-0382,Sports,Football,Apple,37715.3,63751.27,Supplier-032,2020-08-13,Active
+383,Boat Washing Machines Model-0383,Home Appliances,Washing Machines,Boat,29351.09,37571.74,Supplier-029,2022-12-24,Active
+384,Lenovo Laptops Model-0384,Electronics,Laptops,Lenovo,45496.24,63602.85,Supplier-044,2024-06-04,Active
+385,NEXUS Outdoor Model-0385,Sports,Outdoor,NEXUS,34714.69,51195.51,Supplier-021,2024-09-11,Active
+386,Lenovo Laptops Model-0386,Electronics,Laptops,Lenovo,28002.29,42200.89,Supplier-041,2025-08-01,Active
+387,Boat Snacks Model-0387,Grocery,Snacks,Boat,40526.15,52394.46,Supplier-004,2025-05-09,Active
+388,Lenovo Accessories Model-0388,Electronics,Accessories,Lenovo,22289.33,31725.59,Supplier-010,2024-04-02,Active
+389,Prestige Fragrances Model-0389,Beauty,Fragrances,Prestige,22305.17,28890.02,Supplier-021,2025-11-08,Active
+390,Samsung Skincare Model-0390,Beauty,Skincare,Samsung,36866.58,58992.99,Supplier-003,2025-12-07,Active
+391,Apple Packaged Food Model-0391,Grocery,Packaged Food,Apple,13624.56,15629.89,Supplier-019,2024-05-11,Active
+392,Apple Fragrances Model-0392,Beauty,Fragrances,Apple,42204.3,51403.58,Supplier-008,2021-08-08,Active
+393,Whirlpool Outdoor Model-0393,Sports,Outdoor,Whirlpool,16074.75,22248.19,Supplier-031,2021-05-17,Active
+394,Dell Skincare Model-0394,Beauty,Skincare,Dell,29293.36,42580.81,Supplier-045,2025-04-27,Active
+395,Apple Smartphones Model-0395,Electronics,Smartphones,Apple,21907.72,32399.17,Supplier-021,2022-11-29,Active
+396,LG Washing Machines Model-0396,Home Appliances,Washing Machines,LG,33328.75,49585.04,Supplier-045,2024-07-29,Active
+397,Sony Snacks Model-0397,Grocery,Snacks,Sony,1004.66,1130.09,Supplier-044,2022-09-17,Active
+398,Dell Microwaves Model-0398,Home Appliances,Microwaves,Dell,46013.46,68881.06,Supplier-043,2023-09-26,Active
+399,Whirlpool Outdoor Model-0399,Sports,Outdoor,Whirlpool,33824.07,37387.51,Supplier-036,2020-11-24,Active
+400,LG Fragrances Model-0400,Beauty,Fragrances,LG,45917.35,50615.51,Supplier-028,2024-03-28,Active
+401,Puma Smartphones Model-0401,Electronics,Smartphones,Puma,48447.17,84199.98,Supplier-045,2020-09-23,Active
+402,Whirlpool Outdoor Model-0402,Sports,Outdoor,Whirlpool,3496.17,4765.35,Supplier-034,2022-04-10,Active
+403,Adidas Household Essentials Model-0403,Grocery,Household Essentials,Adidas,9729.56,13616.52,Supplier-025,2021-04-07,Active
+404,Philips Smartphones Model-0404,Electronics,Smartphones,Philips,3678.92,5281.85,Supplier-024,2020-08-21,Discontinued
+405,Apple Makeup Model-0405,Beauty,Makeup,Apple,35690.98,48873.34,Supplier-005,2021-12-25,Active
+406,Apple Women Clothing Model-0406,Fashion,Women Clothing,Apple,33065.51,55516.84,Supplier-025,2021-02-03,Discontinued
+407,LG Snacks Model-0407,Grocery,Snacks,LG,15646.04,20801.56,Supplier-046,2021-10-17,Active
+408,Sony Accessories Model-0408,Electronics,Accessories,Sony,39541.37,49372.6,Supplier-030,2022-04-27,Active
+409,NEXUS Football Model-0409,Sports,Football,NEXUS,39844.36,61954.7,Supplier-033,2024-12-23,Active
+410,Boat Cricket Model-0410,Sports,Cricket,Boat,11436.38,18525.02,Supplier-030,2024-02-14,Active
+411,Dell Cricket Model-0411,Sports,Cricket,Dell,5232.87,7771.15,Supplier-020,2024-02-24,Active
+412,Apple Haircare Model-0412,Beauty,Haircare,Apple,16941.58,30381.43,Supplier-048,2020-01-26,Active
+413,HP Makeup Model-0413,Beauty,Makeup,HP,15015.61,17353.98,Supplier-016,2020-04-05,Active
+414,Lenovo Packaged Food Model-0414,Grocery,Packaged Food,Lenovo,16035.1,19387.23,Supplier-009,2024-03-13,Active
+415,Apple Packaged Food Model-0415,Grocery,Packaged Food,Apple,6350.9,9251.13,Supplier-005,2022-11-27,Active
+416,Lenovo Air Conditioners Model-0416,Home Appliances,Air Conditioners,Lenovo,10212.11,13743.31,Supplier-021,2025-12-02,Active
+417,Sony Laptops Model-0417,Electronics,Laptops,Sony,36752.81,64295.73,Supplier-014,2020-02-14,Active
+418,Samsung Laptops Model-0418,Electronics,Laptops,Samsung,3987.3,6259.15,Supplier-045,2022-09-26,Active
+419,Boat Air Conditioners Model-0419,Home Appliances,Air Conditioners,Boat,35877.28,55047.34,Supplier-033,2022-01-08,Active
+420,Lenovo Laptops Model-0420,Electronics,Laptops,Lenovo,43456.26,69888.66,Supplier-012,2021-09-13,Active
+421,Samsung Smartphones Model-0421,Electronics,Smartphones,Samsung,25876.29,29006.67,Supplier-037,2022-06-03,Active
+422,Boat Accessories Model-0422,Electronics,Accessories,Boat,29279.07,36577.78,Supplier-015,2022-04-26,Active
+423,Sony Fitness Equipment Model-0423,Sports,Fitness Equipment,Sony,25862.01,40200.35,Supplier-006,2024-09-27,Active
+424,NEXUS Laptops Model-0424,Electronics,Laptops,NEXUS,42935.14,71955.06,Supplier-033,2021-09-19,Active
+425,Philips Skincare Model-0425,Beauty,Skincare,Philips,6048.35,7653.31,Supplier-049,2023-07-25,Active
+426,Puma Outdoor Model-0426,Sports,Outdoor,Puma,9043.91,13381.73,Supplier-024,2025-09-01,Active
+427,Philips Headphones Model-0427,Electronics,Headphones,Philips,26280.46,43138.66,Supplier-032,2024-11-19,Active
+428,Philips Fragrances Model-0428,Beauty,Fragrances,Philips,24797.27,28170.52,Supplier-018,2023-03-08,Active
+429,Prestige Women Clothing Model-0429,Fashion,Women Clothing,Prestige,10061.72,13493.42,Supplier-037,2025-12-09,Active
+430,Nike Football Model-0430,Sports,Football,Nike,25762.29,28848.05,Supplier-047,2022-01-30,Active
+431,Prestige Skincare Model-0431,Beauty,Skincare,Prestige,7347.21,8289.77,Supplier-032,2024-03-06,Active
+432,Prestige Washing Machines Model-0432,Home Appliances,Washing Machines,Prestige,44840.69,57599.21,Supplier-038,2020-05-31,Active
+433,Philips Fragrances Model-0433,Beauty,Fragrances,Philips,28870.96,47430.05,Supplier-014,2024-07-03,Active
+434,Apple Outdoor Model-0434,Sports,Outdoor,Apple,5477.45,9458.96,Supplier-026,2024-01-02,Active
+435,Dell Fragrances Model-0435,Beauty,Fragrances,Dell,26288.13,46351.04,Supplier-018,2020-08-09,Active
+436,Prestige Footwear Model-0436,Fashion,Footwear,Prestige,17085.15,22109.04,Supplier-016,2024-09-21,Active
+437,Prestige Washing Machines Model-0437,Home Appliances,Washing Machines,Prestige,20888.0,26161.89,Supplier-023,2024-12-27,Active
+438,Samsung Fitness Equipment Model-0438,Sports,Fitness Equipment,Samsung,46080.1,62279.76,Supplier-038,2024-03-27,Active
+439,Nike Headphones Model-0439,Electronics,Headphones,Nike,33030.81,45327.89,Supplier-034,2023-01-03,Active
+440,Lenovo Accessories Model-0440,Electronics,Accessories,Lenovo,30369.34,53089.24,Supplier-023,2025-04-11,Active
+441,Puma Skincare Model-0441,Beauty,Skincare,Puma,5906.36,7558.87,Supplier-001,2021-12-21,Active
+442,Prestige Microwaves Model-0442,Home Appliances,Microwaves,Prestige,41959.59,63464.4,Supplier-001,2024-03-24,Active
+443,Whirlpool Packaged Food Model-0443,Grocery,Packaged Food,Whirlpool,17660.48,21623.99,Supplier-049,2024-01-23,Active
+444,Nike Cricket Model-0444,Sports,Cricket,Nike,10802.28,12023.01,Supplier-048,2023-01-16,Active
+445,Lenovo Accessories Model-0445,Fashion,Accessories,Lenovo,38143.16,56192.08,Supplier-032,2023-03-10,Active
+446,Boat Cricket Model-0446,Sports,Cricket,Boat,20192.52,35674.83,Supplier-028,2022-05-24,Active
+447,Dell Snacks Model-0447,Grocery,Snacks,Dell,1911.47,2781.28,Supplier-043,2025-05-05,Active
+448,Sony Refrigerators Model-0448,Home Appliances,Refrigerators,Sony,21256.57,37758.23,Supplier-045,2020-05-23,Active
+449,Boat Accessories Model-0449,Fashion,Accessories,Boat,40494.68,51653.16,Supplier-013,2023-05-03,Active
+450,NEXUS Household Essentials Model-0450,Grocery,Household Essentials,NEXUS,16091.58,21499.43,Supplier-002,2021-03-27,Active
+451,Sony Sportswear Model-0451,Sports,Sportswear,Sony,9814.93,17488.8,Supplier-050,2023-04-06,Active
+452,Apple Refrigerators Model-0452,Home Appliances,Refrigerators,Apple,23549.34,28114.61,Supplier-044,2025-06-17,Active
+453,Lenovo Household Essentials Model-0453,Grocery,Household Essentials,Lenovo,11281.07,16365.34,Supplier-033,2023-12-29,Active
+454,Apple Men Clothing Model-0454,Fashion,Men Clothing,Apple,7348.85,12684.45,Supplier-044,2020-07-18,Active
+455,Whirlpool Outdoor Model-0455,Sports,Outdoor,Whirlpool,16061.19,27450.46,Supplier-025,2022-04-30,Active
+456,NEXUS Refrigerators Model-0456,Home Appliances,Refrigerators,NEXUS,22302.41,39470.43,Supplier-034,2023-10-10,Active
+457,Puma Packaged Food Model-0457,Grocery,Packaged Food,Puma,7137.64,8011.23,Supplier-019,2021-07-04,Active
+458,Samsung Fitness Equipment Model-0458,Sports,Fitness Equipment,Samsung,25971.93,35705.95,Supplier-033,2021-12-09,Active
+459,Lenovo Haircare Model-0459,Beauty,Haircare,Lenovo,15240.31,17613.31,Supplier-033,2021-01-11,Active
+460,Lenovo Fragrances Model-0460,Beauty,Fragrances,Lenovo,12880.8,19125.51,Supplier-005,2025-08-22,Active
+461,Samsung Air Conditioners Model-0461,Home Appliances,Air Conditioners,Samsung,32371.83,57237.0,Supplier-048,2021-02-26,Active
+462,Nike Accessories Model-0462,Electronics,Accessories,Nike,26333.09,42608.45,Supplier-036,2021-07-28,Active
+463,Nike Sportswear Model-0463,Sports,Sportswear,Nike,10575.26,16046.16,Supplier-028,2022-08-12,Active
+464,Philips Fitness Equipment Model-0464,Sports,Fitness Equipment,Philips,39913.03,66431.66,Supplier-026,2022-03-17,Active
+465,Sony Accessories Model-0465,Fashion,Accessories,Sony,41906.76,54474.14,Supplier-030,2021-03-30,Active
+466,LG Football Model-0466,Sports,Football,LG,22470.2,39504.07,Supplier-048,2025-02-07,Active
+467,Prestige Refrigerators Model-0467,Home Appliances,Refrigerators,Prestige,34433.31,57617.62,Supplier-035,2020-04-15,Active
+468,Sony Washing Machines Model-0468,Home Appliances,Washing Machines,Sony,21255.49,31010.39,Supplier-044,2021-08-16,Active
+469,Nike Footwear Model-0469,Fashion,Footwear,Nike,46864.92,76586.89,Supplier-015,2024-12-02,Active
+470,Boat Outdoor Model-0470,Sports,Outdoor,Boat,22658.99,36050.61,Supplier-002,2023-01-15,Active
+471,Prestige Footwear Model-0471,Fashion,Footwear,Prestige,48044.04,70785.9,Supplier-027,2020-12-09,Active
+472,LG Women Clothing Model-0472,Fashion,Women Clothing,LG,12253.0,18311.33,Supplier-003,2024-06-20,Active
+473,Boat Household Essentials Model-0473,Grocery,Household Essentials,Boat,16100.79,21534.86,Supplier-017,2025-08-14,Active
+474,LG Headphones Model-0474,Electronics,Headphones,LG,3485.1,3842.82,Supplier-044,2025-06-14,Active
+475,Boat Packaged Food Model-0475,Grocery,Packaged Food,Boat,20429.44,22537.66,Supplier-044,2024-07-20,Active
+476,Dell Football Model-0476,Sports,Football,Dell,22167.37,27559.44,Supplier-038,2022-02-06,Active
+477,Puma Beverages Model-0477,Grocery,Beverages,Puma,31949.9,35861.59,Supplier-050,2025-07-16,Active
+478,Lenovo Snacks Model-0478,Grocery,Snacks,Lenovo,42523.46,61269.06,Supplier-044,2025-12-25,Active
+479,Whirlpool Sportswear Model-0479,Sports,Sportswear,Whirlpool,917.27,1432.07,Supplier-047,2025-09-26,Discontinued
+480,Philips Sportswear Model-0480,Sports,Sportswear,Philips,3609.55,4003.79,Supplier-049,2022-02-14,Active
+481,NEXUS Microwaves Model-0481,Home Appliances,Microwaves,NEXUS,25404.3,31339.95,Supplier-040,2023-10-01,Active
+482,Nike Air Conditioners Model-0482,Home Appliances,Air Conditioners,Nike,38791.02,55752.77,Supplier-017,2023-08-09,Active
+483,LG Washing Machines Model-0483,Home Appliances,Washing Machines,LG,46789.23,81445.06,Supplier-022,2020-04-02,Active
+484,Boat Football Model-0484,Sports,Football,Boat,36855.76,62844.55,Supplier-043,2023-03-25,Active
+485,Apple Snacks Model-0485,Grocery,Snacks,Apple,41513.49,56542.66,Supplier-022,2022-12-09,Active
+486,NEXUS Refrigerators Model-0486,Home Appliances,Refrigerators,NEXUS,6467.65,11617.86,Supplier-048,2021-09-03,Active
+487,Whirlpool Air Conditioners Model-0487,Home Appliances,Air Conditioners,Whirlpool,48764.07,86706.08,Supplier-012,2023-03-10,Active
+488,Apple Snacks Model-0488,Grocery,Snacks,Apple,6225.11,10814.51,Supplier-030,2021-12-30,Active
+489,Philips Beverages Model-0489,Grocery,Beverages,Philips,27653.21,36153.44,Supplier-003,2024-07-08,Active
+490,Boat Makeup Model-0490,Beauty,Makeup,Boat,11222.01,17741.71,Supplier-022,2022-08-15,Active
+491,LG Men Clothing Model-0491,Fashion,Men Clothing,LG,46773.31,51840.67,Supplier-009,2020-12-17,Active
+492,Adidas Men Clothing Model-0492,Fashion,Men Clothing,Adidas,19272.51,23591.9,Supplier-012,2021-09-06,Active
+493,Sony Fitness Equipment Model-0493,Sports,Fitness Equipment,Sony,8520.97,14869.71,Supplier-045,2020-12-10,Active
+494,Boat Sportswear Model-0494,Sports,Sportswear,Boat,26770.24,46086.19,Supplier-004,2024-05-09,Active
+495,Dell Accessories Model-0495,Electronics,Accessories,Dell,20508.59,36707.82,Supplier-010,2022-08-03,Active
+496,Adidas Footwear Model-0496,Fashion,Footwear,Adidas,2061.55,3172.96,Supplier-013,2021-12-18,Active
+497,Lenovo Smartphones Model-0497,Electronics,Smartphones,Lenovo,35409.0,52092.41,Supplier-043,2021-06-08,Active
+498,Dell Footwear Model-0498,Fashion,Footwear,Dell,39337.27,59585.39,Supplier-015,2020-06-10,Active
+499,Philips Smartphones Model-0499,Electronics,Smartphones,Philips,18612.63,29026.89,Supplier-032,2020-08-12,Active
+500,Puma Beverages Model-0500,Grocery,Beverages,Puma,12806.71,21346.73,Supplier-025,2023-01-27,Discontinued
+501,Prestige Men Clothing Model-0501,Fashion,Men Clothing,Prestige,6281.26,7509.52,Supplier-011,2023-03-23,Active
+502,Lenovo Sportswear Model-0502,Sports,Sportswear,Lenovo,36689.9,49931.02,Supplier-005,2020-04-14,Active
+503,Prestige Washing Machines Model-0503,Home Appliances,Washing Machines,Prestige,36999.61,59379.17,Supplier-049,2021-05-10,Active
+504,Prestige Beverages Model-0504,Grocery,Beverages,Prestige,35864.73,47351.71,Supplier-033,2021-05-08,Active
+505,Sony Air Conditioners Model-0505,Home Appliances,Air Conditioners,Sony,15915.54,19424.05,Supplier-007,2023-01-05,Active
+506,Puma Snacks Model-0506,Grocery,Snacks,Puma,42422.25,48220.73,Supplier-049,2020-12-11,Active
+507,Sony Packaged Food Model-0507,Grocery,Packaged Food,Sony,34159.49,60624.2,Supplier-001,2023-09-08,Active
+508,Dell Packaged Food Model-0508,Grocery,Packaged Food,Dell,39543.36,66003.7,Supplier-043,2020-12-29,Active
+509,Dell Sportswear Model-0509,Sports,Sportswear,Dell,16251.12,19248.16,Supplier-042,2023-06-01,Active
+510,Whirlpool Accessories Model-0510,Electronics,Accessories,Whirlpool,28593.69,50345.66,Supplier-035,2020-12-21,Active
+511,Dell Refrigerators Model-0511,Home Appliances,Refrigerators,Dell,5394.66,9011.88,Supplier-048,2021-02-24,Active
+512,Lenovo Women Clothing Model-0512,Fashion,Women Clothing,Lenovo,5787.1,8128.02,Supplier-029,2020-07-31,Active
+513,Prestige Men Clothing Model-0513,Fashion,Men Clothing,Prestige,161.44,282.11,Supplier-020,2025-11-07,Active
+514,Nike Smart Watches Model-0514,Electronics,Smart Watches,Nike,33259.52,45442.73,Supplier-010,2020-05-01,Active
+515,Dell Beverages Model-0515,Grocery,Beverages,Dell,8904.04,12878.35,Supplier-028,2024-02-16,Active
+516,Sony Outdoor Model-0516,Sports,Outdoor,Sony,30534.08,36383.46,Supplier-041,2021-06-01,Active
+517,Puma Cricket Model-0517,Sports,Cricket,Puma,17603.53,27837.58,Supplier-030,2021-01-22,Active
+518,Whirlpool Fragrances Model-0518,Beauty,Fragrances,Whirlpool,3679.71,6573.06,Supplier-030,2023-06-26,Active
+519,Samsung Fitness Equipment Model-0519,Sports,Fitness Equipment,Samsung,11491.2,15440.83,Supplier-037,2025-01-19,Active
+520,Dell Washing Machines Model-0520,Home Appliances,Washing Machines,Dell,37385.76,49223.86,Supplier-041,2025-02-05,Active
+521,NEXUS Haircare Model-0521,Beauty,Haircare,NEXUS,19862.35,27762.23,Supplier-036,2025-09-18,Active
+522,Whirlpool Household Essentials Model-0522,Grocery,Household Essentials,Whirlpool,5879.93,7220.86,Supplier-004,2021-07-12,Active
+523,Lenovo Kitchen Appliances Model-0523,Home Appliances,Kitchen Appliances,Lenovo,17297.27,19573.08,Supplier-001,2021-08-02,Active
+524,Whirlpool Smart Watches Model-0524,Electronics,Smart Watches,Whirlpool,19569.58,34964.18,Supplier-043,2022-11-13,Active
+525,Adidas Smartphones Model-0525,Electronics,Smartphones,Adidas,39854.2,64720.45,Supplier-009,2021-11-10,Active
+526,Philips Packaged Food Model-0526,Grocery,Packaged Food,Philips,5839.75,9515.72,Supplier-027,2020-02-23,Active
+527,Philips Outdoor Model-0527,Sports,Outdoor,Philips,9372.99,13189.78,Supplier-005,2023-03-05,Active
+528,Dell Headphones Model-0528,Electronics,Headphones,Dell,37143.25,48686.63,Supplier-050,2025-03-03,Active
+529,HP Haircare Model-0529,Beauty,Haircare,HP,6280.3,8667.74,Supplier-033,2021-01-25,Active
+530,Nike Washing Machines Model-0530,Home Appliances,Washing Machines,Nike,47727.53,64505.5,Supplier-013,2023-05-04,Active
+531,Dell Accessories Model-0531,Electronics,Accessories,Dell,7002.04,10649.77,Supplier-033,2025-09-19,Active
+532,NEXUS Refrigerators Model-0532,Home Appliances,Refrigerators,NEXUS,49065.52,60027.29,Supplier-050,2020-07-23,Active
+533,NEXUS Sportswear Model-0533,Sports,Sportswear,NEXUS,32168.95,44395.31,Supplier-022,2025-11-14,Active
+534,Nike Microwaves Model-0534,Home Appliances,Microwaves,Nike,2684.76,3962.65,Supplier-023,2024-11-25,Active
+535,Samsung Packaged Food Model-0535,Grocery,Packaged Food,Samsung,29238.07,41797.84,Supplier-017,2022-09-25,Active
+536,Nike Men Clothing Model-0536,Fashion,Men Clothing,Nike,49423.95,64629.73,Supplier-046,2023-05-17,Active
+537,Lenovo Outdoor Model-0537,Sports,Outdoor,Lenovo,44399.96,53194.66,Supplier-044,2020-03-12,Active
+538,Adidas Footwear Model-0538,Fashion,Footwear,Adidas,13591.77,20684.14,Supplier-012,2025-11-25,Active
+539,Prestige Smart Watches Model-0539,Electronics,Smart Watches,Prestige,34873.36,59193.59,Supplier-038,2023-04-18,Active
+540,Whirlpool Washing Machines Model-0540,Home Appliances,Washing Machines,Whirlpool,25731.63,30838.19,Supplier-041,2023-10-04,Active
+541,LG Makeup Model-0541,Beauty,Makeup,LG,21971.43,38960.03,Supplier-039,2024-08-07,Active
+542,HP Headphones Model-0542,Electronics,Headphones,HP,42914.49,71946.34,Supplier-022,2020-04-05,Active
+543,Philips Accessories Model-0543,Fashion,Accessories,Philips,32647.68,44593.0,Supplier-019,2020-10-02,Active
+544,Philips Kitchen Appliances Model-0544,Home Appliances,Kitchen Appliances,Philips,41610.17,60516.54,Supplier-005,2020-02-24,Discontinued
+545,Adidas Women Clothing Model-0545,Fashion,Women Clothing,Adidas,5204.3,6106.17,Supplier-033,2023-03-02,Active
+546,Samsung Refrigerators Model-0546,Home Appliances,Refrigerators,Samsung,21759.9,37536.93,Supplier-024,2024-02-19,Active
+547,Whirlpool Football Model-0547,Sports,Football,Whirlpool,11207.09,12707.2,Supplier-044,2023-04-24,Active
+548,Adidas Washing Machines Model-0548,Home Appliances,Washing Machines,Adidas,29089.97,49762.6,Supplier-006,2023-11-28,Active
+549,Boat Men Clothing Model-0549,Fashion,Men Clothing,Boat,33348.6,51380.02,Supplier-049,2023-09-11,Active
+550,Whirlpool Packaged Food Model-0550,Grocery,Packaged Food,Whirlpool,4679.04,8198.61,Supplier-047,2024-12-19,Discontinued
+551,Lenovo Women Clothing Model-0551,Fashion,Women Clothing,Lenovo,25271.5,40569.11,Supplier-040,2024-04-18,Active
+552,Whirlpool Accessories Model-0552,Fashion,Accessories,Whirlpool,22915.15,36436.81,Supplier-043,2024-05-28,Active
+553,Puma Makeup Model-0553,Beauty,Makeup,Puma,34404.71,55937.83,Supplier-030,2024-07-04,Active
+554,Sony Haircare Model-0554,Beauty,Haircare,Sony,19203.82,25698.87,Supplier-026,2021-04-14,Active
+555,Puma Smartphones Model-0555,Electronics,Smartphones,Puma,28560.87,39589.69,Supplier-037,2024-05-17,Active
+556,Nike Beverages Model-0556,Grocery,Beverages,Nike,44588.15,69103.21,Supplier-010,2022-07-17,Active
+557,HP Air Conditioners Model-0557,Home Appliances,Air Conditioners,HP,45881.51,66632.37,Supplier-021,2020-12-08,Active
+558,Sony Kitchen Appliances Model-0558,Home Appliances,Kitchen Appliances,Sony,49961.96,75889.41,Supplier-019,2024-12-23,Active
+559,Boat Men Clothing Model-0559,Fashion,Men Clothing,Boat,36869.54,46321.8,Supplier-016,2024-08-25,Active
+560,NEXUS Smartphones Model-0560,Electronics,Smartphones,NEXUS,47783.49,84295.23,Supplier-028,2025-05-11,Active
+561,Adidas Fitness Equipment Model-0561,Sports,Fitness Equipment,Adidas,10814.49,17547.13,Supplier-022,2020-05-29,Active
+562,Puma Snacks Model-0562,Grocery,Snacks,Puma,33656.22,56042.02,Supplier-043,2024-01-24,Active
+563,Dell Snacks Model-0563,Grocery,Snacks,Dell,33923.7,39906.77,Supplier-020,2024-04-13,Active
+564,NEXUS Fragrances Model-0564,Beauty,Fragrances,NEXUS,48280.44,75701.18,Supplier-024,2025-01-24,Active
+565,Apple Accessories Model-0565,Fashion,Accessories,Apple,41852.18,52005.48,Supplier-025,2022-04-10,Active
+566,Philips Women Clothing Model-0566,Fashion,Women Clothing,Philips,39025.91,53985.24,Supplier-010,2025-08-07,Active
+567,Samsung Beverages Model-0567,Grocery,Beverages,Samsung,22893.22,31754.53,Supplier-048,2023-10-10,Discontinued
+568,Sony Fragrances Model-0568,Beauty,Fragrances,Sony,49999.89,56955.44,Supplier-044,2020-06-30,Active
+569,Dell Air Conditioners Model-0569,Home Appliances,Air Conditioners,Dell,24791.39,30100.79,Supplier-043,2022-03-10,Active
+570,Puma Football Model-0570,Sports,Football,Puma,3851.47,4934.47,Supplier-045,2024-11-06,Active
+571,Dell Football Model-0571,Sports,Football,Dell,5998.36,7669.53,Supplier-011,2021-10-08,Active
+572,Whirlpool Sportswear Model-0572,Sports,Sportswear,Whirlpool,9869.18,16804.56,Supplier-038,2022-11-11,Active
+573,LG Accessories Model-0573,Fashion,Accessories,LG,13406.63,17211.31,Supplier-006,2025-02-08,Active
+574,Puma Beverages Model-0574,Grocery,Beverages,Puma,4908.61,8147.88,Supplier-041,2020-10-26,Active
+575,Prestige Packaged Food Model-0575,Grocery,Packaged Food,Prestige,32300.85,47126.35,Supplier-005,2022-09-27,Active
+576,Boat Fitness Equipment Model-0576,Sports,Fitness Equipment,Boat,49745.32,62418.64,Supplier-016,2021-04-19,Active
+577,NEXUS Fragrances Model-0577,Beauty,Fragrances,NEXUS,17075.12,28640.16,Supplier-042,2020-06-13,Active
+578,HP Men Clothing Model-0578,Fashion,Men Clothing,HP,26824.56,39704.69,Supplier-025,2020-08-23,Active
+579,Nike Haircare Model-0579,Beauty,Haircare,Nike,49717.27,73743.65,Supplier-039,2024-01-31,Active
+580,Samsung Snacks Model-0580,Grocery,Snacks,Samsung,2241.28,2770.25,Supplier-035,2024-12-10,Active
+581,Sony Household Essentials Model-0581,Grocery,Household Essentials,Sony,27809.63,43359.64,Supplier-002,2022-11-25,Active
+582,Samsung Footwear Model-0582,Fashion,Footwear,Samsung,46594.51,53679.83,Supplier-026,2021-02-04,Active
+583,Sony Smart Watches Model-0583,Electronics,Smart Watches,Sony,16461.14,24170.23,Supplier-013,2024-09-13,Active
+584,Apple Headphones Model-0584,Electronics,Headphones,Apple,25795.19,28733.31,Supplier-036,2020-01-25,Active
+585,Prestige Football Model-0585,Sports,Football,Prestige,13176.37,22512.71,Supplier-038,2025-11-11,Active
+586,Philips Makeup Model-0586,Beauty,Makeup,Philips,35449.91,45275.23,Supplier-047,2020-08-07,Active
+587,Philips Beverages Model-0587,Grocery,Beverages,Philips,23044.06,38685.73,Supplier-035,2021-08-05,Active
+588,Adidas Sportswear Model-0588,Sports,Sportswear,Adidas,33503.85,54592.43,Supplier-017,2023-01-05,Active
+589,Adidas Snacks Model-0589,Grocery,Snacks,Adidas,42991.32,60461.14,Supplier-013,2020-09-11,Discontinued
+590,LG Packaged Food Model-0590,Grocery,Packaged Food,LG,19851.06,32485.63,Supplier-045,2023-12-15,Active
+591,Whirlpool Haircare Model-0591,Beauty,Haircare,Whirlpool,14823.53,23915.96,Supplier-026,2024-10-05,Active
+592,Adidas Refrigerators Model-0592,Home Appliances,Refrigerators,Adidas,5614.44,8207.23,Supplier-006,2024-08-11,Active
+593,Sony Fragrances Model-0593,Beauty,Fragrances,Sony,43967.9,78324.42,Supplier-016,2022-03-17,Active
+594,Whirlpool Kitchen Appliances Model-0594,Home Appliances,Kitchen Appliances,Whirlpool,17668.16,26248.52,Supplier-016,2024-06-03,Active
+595,Boat Cricket Model-0595,Sports,Cricket,Boat,2078.51,3346.77,Supplier-004,2021-04-13,Active
+596,Nike Laptops Model-0596,Electronics,Laptops,Nike,10292.28,18491.15,Supplier-028,2021-09-20,Active
+597,Puma Microwaves Model-0597,Home Appliances,Microwaves,Puma,9290.99,15767.69,Supplier-017,2022-03-07,Active
+598,Apple Skincare Model-0598,Beauty,Skincare,Apple,39847.46,44294.79,Supplier-021,2025-06-19,Active
+599,Sony Refrigerators Model-0599,Home Appliances,Refrigerators,Sony,32032.68,44761.52,Supplier-025,2025-08-27,Active
+600,Apple Household Essentials Model-0600,Grocery,Household Essentials,Apple,6742.51,10564.52,Supplier-033,2025-01-13,Active
+601,Puma Footwear Model-0601,Fashion,Footwear,Puma,15551.97,24592.61,Supplier-049,2022-08-13,Active
+602,Boat Fitness Equipment Model-0602,Sports,Fitness Equipment,Boat,19975.16,30146.2,Supplier-004,2025-05-10,Active
+603,Puma Outdoor Model-0603,Sports,Outdoor,Puma,2130.02,3198.92,Supplier-030,2023-06-07,Active
+604,Apple Cricket Model-0604,Sports,Cricket,Apple,29346.69,36921.48,Supplier-024,2025-07-11,Active
+605,Whirlpool Skincare Model-0605,Beauty,Skincare,Whirlpool,18198.01,28301.75,Supplier-028,2022-04-26,Active
+606,Dell Smart Watches Model-0606,Electronics,Smart Watches,Dell,47896.7,53265.93,Supplier-045,2020-11-18,Active
+607,Sony Sportswear Model-0607,Sports,Sportswear,Sony,3569.98,4401.63,Supplier-015,2024-06-22,Active
+608,Boat Makeup Model-0608,Beauty,Makeup,Boat,11515.76,20610.16,Supplier-035,2020-12-19,Active
+609,Adidas Laptops Model-0609,Electronics,Laptops,Adidas,1529.57,2458.31,Supplier-018,2021-06-08,Active
+610,Lenovo Kitchen Appliances Model-0610,Home Appliances,Kitchen Appliances,Lenovo,30548.48,49221.69,Supplier-048,2020-02-06,Active
+611,Whirlpool Footwear Model-0611,Fashion,Footwear,Whirlpool,48638.78,56897.12,Supplier-005,2024-10-30,Active
+612,HP Beverages Model-0612,Grocery,Beverages,HP,8083.91,13494.67,Supplier-020,2022-10-06,Active
+613,Philips Makeup Model-0613,Beauty,Makeup,Philips,22634.34,27972.58,Supplier-048,2022-12-18,Active
+614,Prestige Fragrances Model-0614,Beauty,Fragrances,Prestige,36806.97,54167.99,Supplier-040,2022-04-30,Active
+615,Sony Smart Watches Model-0615,Electronics,Smart Watches,Sony,23645.15,29983.07,Supplier-033,2025-01-29,Active
+616,Whirlpool Accessories Model-0616,Fashion,Accessories,Whirlpool,48550.71,61297.48,Supplier-043,2023-10-31,Active
+617,Adidas Beverages Model-0617,Grocery,Beverages,Adidas,33651.64,37738.08,Supplier-018,2023-10-12,Active
+618,Philips Women Clothing Model-0618,Fashion,Women Clothing,Philips,12362.17,19081.94,Supplier-035,2025-05-17,Active
+619,NEXUS Refrigerators Model-0619,Home Appliances,Refrigerators,NEXUS,29112.24,36779.95,Supplier-035,2020-07-02,Active
+620,Whirlpool Accessories Model-0620,Fashion,Accessories,Whirlpool,40075.21,62278.71,Supplier-017,2025-09-23,Active
+621,Prestige Refrigerators Model-0621,Home Appliances,Refrigerators,Prestige,6085.85,9935.11,Supplier-028,2020-07-21,Active
+622,Adidas Smart Watches Model-0622,Electronics,Smart Watches,Adidas,39553.29,69524.11,Supplier-037,2022-07-28,Active
+623,Philips Outdoor Model-0623,Sports,Outdoor,Philips,43550.31,71271.12,Supplier-029,2024-10-01,Active
+624,LG Headphones Model-0624,Electronics,Headphones,LG,24006.18,36321.03,Supplier-016,2024-08-11,Active
+625,Lenovo Footwear Model-0625,Fashion,Footwear,Lenovo,41331.59,60670.26,Supplier-041,2023-05-13,Active
+626,Apple Sportswear Model-0626,Sports,Sportswear,Apple,38218.82,59305.86,Supplier-001,2024-02-12,Active
+627,Nike Haircare Model-0627,Beauty,Haircare,Nike,22241.48,38712.55,Supplier-006,2024-05-05,Active
+628,Apple Headphones Model-0628,Electronics,Headphones,Apple,40753.71,71460.85,Supplier-029,2020-09-10,Active
+629,Nike Cricket Model-0629,Sports,Cricket,Nike,17466.52,20816.5,Supplier-011,2024-02-27,Active
+630,Nike Men Clothing Model-0630,Fashion,Men Clothing,Nike,27364.14,40797.26,Supplier-017,2023-08-29,Active
+631,HP Accessories Model-0631,Electronics,Accessories,HP,10201.87,16754.77,Supplier-003,2023-11-20,Active
+632,Apple Fragrances Model-0632,Beauty,Fragrances,Apple,26075.58,43423.57,Supplier-047,2022-11-18,Active
+633,Prestige Accessories Model-0633,Electronics,Accessories,Prestige,14051.87,16271.17,Supplier-021,2025-08-02,Active
+634,Prestige Smart Watches Model-0634,Electronics,Smart Watches,Prestige,27627.78,39143.06,Supplier-020,2021-04-29,Active
+635,Sony Fragrances Model-0635,Beauty,Fragrances,Sony,43997.39,61072.54,Supplier-012,2023-02-06,Active
+636,Apple Laptops Model-0636,Electronics,Laptops,Apple,17071.91,27784.14,Supplier-044,2025-07-11,Active
+637,Whirlpool Makeup Model-0637,Beauty,Makeup,Whirlpool,11712.37,16823.49,Supplier-025,2024-09-12,Active
+638,Whirlpool Air Conditioners Model-0638,Home Appliances,Air Conditioners,Whirlpool,38967.78,48836.11,Supplier-010,2021-01-30,Active
+639,Nike Sportswear Model-0639,Sports,Sportswear,Nike,16144.92,22613.36,Supplier-023,2023-01-30,Active
+640,Prestige Packaged Food Model-0640,Grocery,Packaged Food,Prestige,13348.5,21322.1,Supplier-035,2023-11-26,Active
+641,Philips Household Essentials Model-0641,Grocery,Household Essentials,Philips,10251.92,12415.84,Supplier-048,2024-09-12,Active
+642,Philips Snacks Model-0642,Grocery,Snacks,Philips,7275.56,9120.83,Supplier-008,2020-04-23,Active
+643,LG Skincare Model-0643,Beauty,Skincare,LG,9946.82,15747.23,Supplier-033,2020-03-24,Active
+644,LG Sportswear Model-0644,Sports,Sportswear,LG,46206.43,76270.54,Supplier-012,2021-06-11,Active
+645,Prestige Football Model-0645,Sports,Football,Prestige,15850.15,23430.55,Supplier-046,2021-02-04,Active
+646,HP Microwaves Model-0646,Home Appliances,Microwaves,HP,19588.5,31756.28,Supplier-048,2025-01-01,Active
+647,Samsung Packaged Food Model-0647,Grocery,Packaged Food,Samsung,6038.66,9473.74,Supplier-029,2024-12-13,Active
+648,Sony Smart Watches Model-0648,Electronics,Smart Watches,Sony,5903.43,7799.17,Supplier-013,2025-11-14,Active
+649,Dell Haircare Model-0649,Beauty,Haircare,Dell,36811.88,52465.73,Supplier-049,2024-06-03,Active
+650,Philips Smartphones Model-0650,Electronics,Smartphones,Philips,37381.87,42833.78,Supplier-011,2022-08-02,Active
+651,NEXUS Footwear Model-0651,Fashion,Footwear,NEXUS,41883.41,58787.12,Supplier-046,2020-07-05,Active
+652,Dell Microwaves Model-0652,Home Appliances,Microwaves,Dell,27806.3,44850.32,Supplier-048,2025-03-17,Active
+653,Adidas Sportswear Model-0653,Sports,Sportswear,Adidas,32313.79,36919.84,Supplier-050,2025-09-16,Active
+654,LG Packaged Food Model-0654,Grocery,Packaged Food,LG,42376.01,55499.06,Supplier-049,2024-01-24,Active
+655,Philips Beverages Model-0655,Grocery,Beverages,Philips,24818.57,43388.81,Supplier-043,2023-10-20,Active
+656,Apple Women Clothing Model-0656,Fashion,Women Clothing,Apple,26084.47,36160.85,Supplier-034,2020-11-08,Active
+657,Apple Women Clothing Model-0657,Fashion,Women Clothing,Apple,29625.23,35285.91,Supplier-020,2020-12-22,Discontinued
+658,Boat Washing Machines Model-0658,Home Appliances,Washing Machines,Boat,10265.56,17062.2,Supplier-026,2023-05-26,Active
+659,HP Snacks Model-0659,Grocery,Snacks,HP,31817.52,41906.8,Supplier-036,2020-09-03,Active
+660,Philips Refrigerators Model-0660,Home Appliances,Refrigerators,Philips,14902.51,24698.97,Supplier-015,2023-12-31,Active
+661,LG Accessories Model-0661,Electronics,Accessories,LG,4744.26,6801.17,Supplier-043,2025-09-07,Active
+662,Lenovo Footwear Model-0662,Fashion,Footwear,Lenovo,26585.83,43228.98,Supplier-037,2024-11-09,Active
+663,Apple Refrigerators Model-0663,Home Appliances,Refrigerators,Apple,48085.04,57881.87,Supplier-033,2025-01-06,Active
+664,NEXUS Accessories Model-0664,Electronics,Accessories,NEXUS,18895.86,33872.29,Supplier-028,2024-03-06,Active
+665,Whirlpool Laptops Model-0665,Electronics,Laptops,Whirlpool,7653.66,10591.49,Supplier-017,2023-04-04,Active
+666,Whirlpool Haircare Model-0666,Beauty,Haircare,Whirlpool,30516.68,36905.93,Supplier-003,2024-10-02,Active
+667,Adidas Footwear Model-0667,Fashion,Footwear,Adidas,45873.58,78766.25,Supplier-041,2024-09-18,Active
+668,Boat Laptops Model-0668,Electronics,Laptops,Boat,48565.02,68374.32,Supplier-005,2020-07-28,Active
+669,Boat Footwear Model-0669,Fashion,Footwear,Boat,38867.44,52366.39,Supplier-033,2025-12-04,Discontinued
+670,Apple Microwaves Model-0670,Home Appliances,Microwaves,Apple,35062.93,52206.68,Supplier-045,2022-04-23,Active
+671,Dell Smart Watches Model-0671,Electronics,Smart Watches,Dell,38545.9,65136.28,Supplier-045,2023-12-06,Active
+672,HP Football Model-0672,Sports,Football,HP,5434.25,6215.74,Supplier-047,2025-04-19,Active
+673,Philips Snacks Model-0673,Grocery,Snacks,Philips,28056.1,46606.91,Supplier-033,2020-12-28,Active
+674,Philips Snacks Model-0674,Grocery,Snacks,Philips,31565.2,44208.19,Supplier-016,2022-04-21,Active
+675,Philips Men Clothing Model-0675,Fashion,Men Clothing,Philips,32428.77,37207.72,Supplier-024,2025-05-07,Active
+676,Apple Haircare Model-0676,Beauty,Haircare,Apple,5396.87,9536.35,Supplier-002,2022-11-24,Active
+677,Apple Fitness Equipment Model-0677,Sports,Fitness Equipment,Apple,28606.74,37302.54,Supplier-028,2023-09-07,Active
+678,Apple Packaged Food Model-0678,Grocery,Packaged Food,Apple,29626.7,49387.32,Supplier-013,2024-12-24,Active
+679,Prestige Household Essentials Model-0679,Grocery,Household Essentials,Prestige,3256.31,5822.9,Supplier-028,2022-04-20,Active
+680,Apple Laptops Model-0680,Electronics,Laptops,Apple,43040.88,66428.17,Supplier-012,2022-06-08,Active
+681,Boat Beverages Model-0681,Grocery,Beverages,Boat,49271.44,68806.9,Supplier-016,2021-03-29,Active
+682,NEXUS Accessories Model-0682,Fashion,Accessories,NEXUS,49975.74,88961.65,Supplier-026,2020-03-14,Active
+683,HP Haircare Model-0683,Beauty,Haircare,HP,6527.77,8952.14,Supplier-011,2022-08-15,Active
+684,Sony Smartphones Model-0684,Electronics,Smartphones,Sony,14526.3,24811.38,Supplier-017,2025-09-17,Active
+685,NEXUS Haircare Model-0685,Beauty,Haircare,NEXUS,7446.89,11278.33,Supplier-026,2021-06-20,Discontinued
+686,Philips Smartphones Model-0686,Electronics,Smartphones,Philips,989.93,1171.85,Supplier-026,2025-11-02,Active
+687,HP Microwaves Model-0687,Home Appliances,Microwaves,HP,3543.38,5733.29,Supplier-033,2022-02-03,Active
+688,Prestige Air Conditioners Model-0688,Home Appliances,Air Conditioners,Prestige,44344.92,57528.79,Supplier-034,2025-11-13,Active
+689,Nike Beverages Model-0689,Grocery,Beverages,Nike,16630.58,25507.31,Supplier-008,2025-11-02,Active
+690,Sony Laptops Model-0690,Electronics,Laptops,Sony,28446.3,46984.08,Supplier-010,2022-03-20,Active
+691,Dell Beverages Model-0691,Grocery,Beverages,Dell,38137.99,58470.91,Supplier-046,2025-02-16,Active
+692,Prestige Laptops Model-0692,Electronics,Laptops,Prestige,26539.77,30114.26,Supplier-021,2023-03-15,Active
+693,Lenovo Headphones Model-0693,Electronics,Headphones,Lenovo,14935.94,19806.14,Supplier-013,2022-01-19,Active
+694,Puma Laptops Model-0694,Electronics,Laptops,Puma,49329.4,75656.77,Supplier-031,2020-05-20,Active
+695,HP Microwaves Model-0695,Home Appliances,Microwaves,HP,30741.55,36339.69,Supplier-044,2021-03-06,Active
+696,Boat Skincare Model-0696,Beauty,Skincare,Boat,40934.48,58183.71,Supplier-037,2024-09-19,Active
+697,Lenovo Women Clothing Model-0697,Fashion,Women Clothing,Lenovo,19196.49,21254.69,Supplier-018,2023-07-07,Active
+698,Boat Footwear Model-0698,Fashion,Footwear,Boat,30369.9,36376.6,Supplier-024,2022-08-01,Active
+699,LG Haircare Model-0699,Beauty,Haircare,LG,45147.61,76492.85,Supplier-045,2023-11-15,Active
+700,Nike Microwaves Model-0700,Home Appliances,Microwaves,Nike,13771.38,24300.27,Supplier-047,2021-05-08,Active
+701,Prestige Air Conditioners Model-0701,Home Appliances,Air Conditioners,Prestige,29619.77,51982.43,Supplier-019,2022-09-18,Active
+702,NEXUS Refrigerators Model-0702,Home Appliances,Refrigerators,NEXUS,29031.59,47715.26,Supplier-023,2025-09-23,Active
+703,LG Men Clothing Model-0703,Fashion,Men Clothing,LG,30115.04,52335.37,Supplier-033,2023-12-23,Active
+704,Boat Outdoor Model-0704,Sports,Outdoor,Boat,1201.34,1687.52,Supplier-017,2020-05-23,Active
+705,Philips Makeup Model-0705,Beauty,Makeup,Philips,28779.16,48444.42,Supplier-036,2021-06-17,Active
+706,Puma Air Conditioners Model-0706,Home Appliances,Air Conditioners,Puma,30469.04,39123.19,Supplier-005,2020-01-26,Active
+707,Samsung Beverages Model-0707,Grocery,Beverages,Samsung,27333.88,30507.5,Supplier-043,2023-05-14,Active
+708,NEXUS Packaged Food Model-0708,Grocery,Packaged Food,NEXUS,16446.99,27271.15,Supplier-045,2023-09-05,Active
+709,HP Footwear Model-0709,Fashion,Footwear,HP,736.83,1203.2,Supplier-016,2023-09-14,Active
+710,NEXUS Air Conditioners Model-0710,Home Appliances,Air Conditioners,NEXUS,44561.37,51370.26,Supplier-043,2024-01-22,Active
+711,Boat Snacks Model-0711,Grocery,Snacks,Boat,40325.84,71833.53,Supplier-040,2024-01-28,Active
+712,Prestige Kitchen Appliances Model-0712,Home Appliances,Kitchen Appliances,Prestige,4894.62,7038.7,Supplier-048,2022-12-09,Active
+713,Boat Packaged Food Model-0713,Grocery,Packaged Food,Boat,28914.39,39163.32,Supplier-014,2020-11-02,Active
+714,Adidas Fitness Equipment Model-0714,Sports,Fitness Equipment,Adidas,36903.16,48096.56,Supplier-048,2020-09-19,Active
+715,Lenovo Washing Machines Model-0715,Home Appliances,Washing Machines,Lenovo,32085.53,47169.08,Supplier-034,2025-12-29,Active
+716,NEXUS Skincare Model-0716,Beauty,Skincare,NEXUS,29696.38,37907.5,Supplier-007,2024-08-27,Active
+717,Dell Kitchen Appliances Model-0717,Home Appliances,Kitchen Appliances,Dell,44400.14,79658.52,Supplier-032,2023-12-15,Active
+718,Dell Accessories Model-0718,Electronics,Accessories,Dell,49934.03,74041.38,Supplier-012,2022-03-03,Active
+719,Lenovo Makeup Model-0719,Beauty,Makeup,Lenovo,46240.91,77732.75,Supplier-036,2024-07-24,Active
+720,Adidas Smart Watches Model-0720,Electronics,Smart Watches,Adidas,43001.23,54891.8,Supplier-048,2022-03-16,Active
+721,Sony Accessories Model-0721,Electronics,Accessories,Sony,46598.71,56611.31,Supplier-027,2023-04-12,Active
+722,Dell Smart Watches Model-0722,Electronics,Smart Watches,Dell,21466.16,26197.06,Supplier-033,2022-09-11,Active
+723,Dell Accessories Model-0723,Electronics,Accessories,Dell,15331.05,17748.2,Supplier-002,2022-01-13,Active
+724,HP Sportswear Model-0724,Sports,Sportswear,HP,20225.36,32467.48,Supplier-033,2020-01-19,Active
+725,Whirlpool Women Clothing Model-0725,Fashion,Women Clothing,Whirlpool,43916.69,65498.22,Supplier-015,2020-11-01,Active
+726,LG Sportswear Model-0726,Sports,Sportswear,LG,37195.76,49127.83,Supplier-034,2020-12-14,Active
+727,LG Fragrances Model-0727,Beauty,Fragrances,LG,29120.13,45186.84,Supplier-012,2023-11-13,Active
+728,Sony Air Conditioners Model-0728,Home Appliances,Air Conditioners,Sony,48956.39,72056.51,Supplier-009,2022-06-30,Active
+729,LG Sportswear Model-0729,Sports,Sportswear,LG,42113.39,50404.4,Supplier-004,2020-06-15,Active
+730,Dell Accessories Model-0730,Electronics,Accessories,Dell,5438.47,6687.12,Supplier-016,2020-03-08,Active
+731,Prestige Snacks Model-0731,Grocery,Snacks,Prestige,41254.82,63563.73,Supplier-011,2020-12-23,Active
+732,Lenovo Sportswear Model-0732,Sports,Sportswear,Lenovo,38764.24,61153.47,Supplier-027,2023-12-05,Active
+733,Samsung Smartphones Model-0733,Electronics,Smartphones,Samsung,1683.67,2797.99,Supplier-018,2023-09-24,Active
+734,Lenovo Headphones Model-0734,Electronics,Headphones,Lenovo,2656.32,4017.31,Supplier-037,2020-11-23,Active
+735,Samsung Football Model-0735,Sports,Football,Samsung,16145.78,18078.27,Supplier-024,2021-05-20,Active
+736,Whirlpool Fitness Equipment Model-0736,Sports,Fitness Equipment,Whirlpool,43861.71,77186.9,Supplier-021,2020-04-05,Active
+737,LG Men Clothing Model-0737,Fashion,Men Clothing,LG,41331.42,66451.87,Supplier-022,2020-09-01,Active
+738,Prestige Laptops Model-0738,Electronics,Laptops,Prestige,25232.75,41486.54,Supplier-022,2020-09-02,Discontinued
+739,Boat Air Conditioners Model-0739,Home Appliances,Air Conditioners,Boat,40124.05,49616.69,Supplier-004,2025-06-09,Active
+740,HP Smart Watches Model-0740,Electronics,Smart Watches,HP,29510.55,38333.46,Supplier-016,2025-07-11,Active
+741,Samsung Accessories Model-0741,Electronics,Accessories,Samsung,1672.6,2272.92,Supplier-020,2021-05-15,Active
+742,Philips Outdoor Model-0742,Sports,Outdoor,Philips,39694.05,47022.51,Supplier-032,2023-07-26,Active
+743,HP Smartphones Model-0743,Electronics,Smartphones,HP,17532.14,22075.79,Supplier-019,2022-09-07,Active
+744,Whirlpool Snacks Model-0744,Grocery,Snacks,Whirlpool,8043.73,10738.22,Supplier-015,2024-09-04,Active
+745,HP Accessories Model-0745,Fashion,Accessories,HP,49029.46,79442.72,Supplier-023,2022-01-20,Active
+746,Lenovo Sportswear Model-0746,Sports,Sportswear,Lenovo,33059.28,43489.71,Supplier-022,2020-02-25,Active
+747,Prestige Snacks Model-0747,Grocery,Snacks,Prestige,24252.92,29958.97,Supplier-047,2024-09-23,Active
+748,Prestige Football Model-0748,Sports,Football,Prestige,42076.26,71129.37,Supplier-041,2024-02-20,Active
+749,Samsung Men Clothing Model-0749,Fashion,Men Clothing,Samsung,27312.48,36739.73,Supplier-031,2020-12-13,Active
+750,Whirlpool Smart Watches Model-0750,Electronics,Smart Watches,Whirlpool,22620.41,32361.89,Supplier-028,2021-06-23,Discontinued
+751,NEXUS Skincare Model-0751,Beauty,Skincare,NEXUS,42560.02,67959.34,Supplier-007,2020-05-18,Active
+752,NEXUS Laptops Model-0752,Electronics,Laptops,NEXUS,23691.22,41334.32,Supplier-047,2023-11-30,Active
+753,Whirlpool Haircare Model-0753,Beauty,Haircare,Whirlpool,25080.39,33239.44,Supplier-030,2020-03-27,Active
+754,Prestige Fragrances Model-0754,Beauty,Fragrances,Prestige,5910.04,10158.79,Supplier-039,2020-01-03,Active
+755,Sony Packaged Food Model-0755,Grocery,Packaged Food,Sony,13104.67,18693.1,Supplier-021,2020-09-05,Active
+756,Nike Men Clothing Model-0756,Fashion,Men Clothing,Nike,15027.47,19745.61,Supplier-049,2022-12-09,Active
+757,LG Outdoor Model-0757,Sports,Outdoor,LG,20054.32,24510.12,Supplier-050,2022-06-06,Active
+758,HP Men Clothing Model-0758,Fashion,Men Clothing,HP,48228.69,70684.62,Supplier-046,2022-07-23,Active
+759,Nike Washing Machines Model-0759,Home Appliances,Washing Machines,Nike,45714.81,78235.66,Supplier-042,2023-05-31,Active
+760,Prestige Footwear Model-0760,Fashion,Footwear,Prestige,9096.06,14723.11,Supplier-040,2021-10-14,Active
+761,Samsung Fragrances Model-0761,Beauty,Fragrances,Samsung,9591.61,14132.03,Supplier-039,2024-08-12,Active
+762,NEXUS Skincare Model-0762,Beauty,Skincare,NEXUS,4136.57,4852.55,Supplier-016,2025-07-10,Active
+763,Boat Accessories Model-0763,Electronics,Accessories,Boat,32956.08,54370.13,Supplier-043,2025-11-18,Active
+764,HP Beverages Model-0764,Grocery,Beverages,HP,42708.35,48726.1,Supplier-004,2025-01-20,Discontinued
+765,Philips Microwaves Model-0765,Home Appliances,Microwaves,Philips,15010.08,25081.25,Supplier-004,2020-01-22,Active
+766,NEXUS Microwaves Model-0766,Home Appliances,Microwaves,NEXUS,29323.36,48070.39,Supplier-027,2024-04-22,Active
+767,Prestige Headphones Model-0767,Electronics,Headphones,Prestige,45744.97,50379.24,Supplier-034,2020-04-17,Active
+768,Lenovo Microwaves Model-0768,Home Appliances,Microwaves,Lenovo,18544.64,22429.73,Supplier-033,2025-11-03,Active
+769,Sony Household Essentials Model-0769,Grocery,Household Essentials,Sony,23057.3,34380.49,Supplier-002,2024-12-15,Active
+770,HP Men Clothing Model-0770,Fashion,Men Clothing,HP,1438.34,2588.75,Supplier-008,2024-08-07,Discontinued
+771,Boat Smart Watches Model-0771,Electronics,Smart Watches,Boat,49937.89,61602.81,Supplier-032,2024-12-08,Active
+772,Whirlpool Accessories Model-0772,Electronics,Accessories,Whirlpool,843.02,1458.8,Supplier-013,2020-08-17,Active
+773,Adidas Beverages Model-0773,Grocery,Beverages,Adidas,6303.36,10661.83,Supplier-028,2023-03-01,Active
+774,Lenovo Footwear Model-0774,Fashion,Footwear,Lenovo,38850.15,43979.66,Supplier-014,2020-12-03,Active
+775,Lenovo Makeup Model-0775,Beauty,Makeup,Lenovo,13607.51,19621.3,Supplier-023,2024-03-29,Active
+776,Samsung Air Conditioners Model-0776,Home Appliances,Air Conditioners,Samsung,16241.23,26241.11,Supplier-002,2020-02-13,Active
+777,Prestige Beverages Model-0777,Grocery,Beverages,Prestige,25581.17,35950.07,Supplier-010,2020-08-14,Active
+778,Lenovo Laptops Model-0778,Electronics,Laptops,Lenovo,48989.93,84709.59,Supplier-021,2021-08-09,Active
+779,Boat Refrigerators Model-0779,Home Appliances,Refrigerators,Boat,33001.39,52000.66,Supplier-028,2025-04-16,Active
+780,Adidas Football Model-0780,Sports,Football,Adidas,33996.78,39870.93,Supplier-049,2025-09-01,Active
+781,LG Household Essentials Model-0781,Grocery,Household Essentials,LG,18432.4,30687.97,Supplier-028,2025-03-24,Active
+782,Apple Accessories Model-0782,Fashion,Accessories,Apple,35899.49,57282.77,Supplier-017,2021-08-29,Active
+783,Samsung Sportswear Model-0783,Sports,Sportswear,Samsung,31667.36,37236.78,Supplier-001,2020-11-17,Active
+784,Samsung Beverages Model-0784,Grocery,Beverages,Samsung,49798.29,66280.45,Supplier-030,2020-10-17,Active
+785,Lenovo Accessories Model-0785,Electronics,Accessories,Lenovo,9935.61,16290.61,Supplier-028,2021-03-28,Active
+786,Philips Makeup Model-0786,Beauty,Makeup,Philips,48867.57,56688.37,Supplier-033,2022-09-09,Active
+787,Puma Skincare Model-0787,Beauty,Skincare,Puma,3478.07,5536.18,Supplier-005,2021-06-25,Discontinued
+788,Prestige Men Clothing Model-0788,Fashion,Men Clothing,Prestige,22592.19,33404.53,Supplier-037,2022-03-12,Active
+789,Philips Football Model-0789,Sports,Football,Philips,8062.39,13591.78,Supplier-027,2022-12-25,Discontinued
+790,Nike Beverages Model-0790,Grocery,Beverages,Nike,46561.91,60122.61,Supplier-014,2023-01-29,Active
+791,Lenovo Packaged Food Model-0791,Grocery,Packaged Food,Lenovo,48839.48,64416.91,Supplier-039,2020-12-13,Active
+792,Samsung Fragrances Model-0792,Beauty,Fragrances,Samsung,24476.76,41133.39,Supplier-025,2022-10-08,Active
+793,Whirlpool Snacks Model-0793,Grocery,Snacks,Whirlpool,9814.23,15883.19,Supplier-005,2024-10-03,Active
+794,NEXUS Washing Machines Model-0794,Home Appliances,Washing Machines,NEXUS,576.07,1021.46,Supplier-014,2024-05-27,Active
+795,Boat Women Clothing Model-0795,Fashion,Women Clothing,Boat,266.74,316.29,Supplier-026,2022-01-02,Active
+796,LG Haircare Model-0796,Beauty,Haircare,LG,13182.62,22992.5,Supplier-027,2021-01-04,Discontinued
+797,Nike Sportswear Model-0797,Sports,Sportswear,Nike,40811.39,59017.62,Supplier-042,2024-04-11,Active
+798,NEXUS Refrigerators Model-0798,Home Appliances,Refrigerators,NEXUS,35710.56,52611.13,Supplier-028,2021-06-23,Active
+799,Prestige Refrigerators Model-0799,Home Appliances,Refrigerators,Prestige,6252.27,8251.88,Supplier-032,2021-03-11,Active
+800,Adidas Air Conditioners Model-0800,Home Appliances,Air Conditioners,Adidas,6809.23,11619.45,Supplier-008,2020-02-08,Active
+801,Puma Accessories Model-0801,Fashion,Accessories,Puma,42100.34,72373.34,Supplier-023,2024-09-05,Active
+802,Nike Men Clothing Model-0802,Fashion,Men Clothing,Nike,9262.65,14817.63,Supplier-038,2020-12-09,Active
+803,Nike Air Conditioners Model-0803,Home Appliances,Air Conditioners,Nike,29196.69,41338.57,Supplier-028,2023-05-11,Active
+804,LG Skincare Model-0804,Beauty,Skincare,LG,41188.21,65569.03,Supplier-020,2024-12-30,Active
+805,Adidas Men Clothing Model-0805,Fashion,Men Clothing,Adidas,17652.86,29663.21,Supplier-048,2021-07-11,Active
+806,Lenovo Refrigerators Model-0806,Home Appliances,Refrigerators,Lenovo,48911.41,56644.92,Supplier-038,2024-03-30,Active
+807,Whirlpool Kitchen Appliances Model-0807,Home Appliances,Kitchen Appliances,Whirlpool,35093.11,39777.89,Supplier-033,2021-10-16,Active
+808,Lenovo Fragrances Model-0808,Beauty,Fragrances,Lenovo,8904.74,14621.63,Supplier-032,2020-12-11,Active
+809,Sony Fitness Equipment Model-0809,Sports,Fitness Equipment,Sony,47341.0,52993.46,Supplier-042,2022-07-20,Active
+810,Whirlpool Makeup Model-0810,Beauty,Makeup,Whirlpool,30455.22,46393.62,Supplier-032,2022-04-22,Active
+811,Nike Makeup Model-0811,Beauty,Makeup,Nike,24568.55,29935.48,Supplier-019,2023-09-20,Active
+812,Whirlpool Packaged Food Model-0812,Grocery,Packaged Food,Whirlpool,18343.07,27440.22,Supplier-028,2022-11-02,Active
+813,NEXUS Fragrances Model-0813,Beauty,Fragrances,NEXUS,13101.03,22845.95,Supplier-012,2021-01-14,Active
+814,Samsung Smart Watches Model-0814,Electronics,Smart Watches,Samsung,19322.25,29179.36,Supplier-019,2023-01-17,Active
+815,Sony Outdoor Model-0815,Sports,Outdoor,Sony,29170.0,36440.07,Supplier-012,2023-01-19,Active
+816,LG Headphones Model-0816,Electronics,Headphones,LG,29287.74,45705.64,Supplier-024,2023-08-12,Active
+817,Boat Cricket Model-0817,Sports,Cricket,Boat,47502.53,57746.72,Supplier-003,2024-12-11,Active
+818,Philips Smart Watches Model-0818,Electronics,Smart Watches,Philips,2226.44,2517.2,Supplier-036,2022-01-12,Active
+819,Dell Kitchen Appliances Model-0819,Home Appliances,Kitchen Appliances,Dell,30056.77,46497.58,Supplier-026,2025-05-27,Discontinued
+820,HP Washing Machines Model-0820,Home Appliances,Washing Machines,HP,28436.68,41957.83,Supplier-037,2021-02-18,Active
+821,HP Cricket Model-0821,Sports,Cricket,HP,28725.35,38888.0,Supplier-034,2023-05-16,Active
+822,Philips Packaged Food Model-0822,Grocery,Packaged Food,Philips,9251.59,12880.11,Supplier-019,2021-04-17,Active
+823,Whirlpool Snacks Model-0823,Grocery,Snacks,Whirlpool,11693.02,15069.09,Supplier-029,2020-07-06,Active
+824,Apple Skincare Model-0824,Beauty,Skincare,Apple,21184.51,26487.37,Supplier-017,2025-07-01,Active
+825,Apple Smartphones Model-0825,Electronics,Smartphones,Apple,34582.9,43980.64,Supplier-001,2024-12-04,Active
+826,NEXUS Packaged Food Model-0826,Grocery,Packaged Food,NEXUS,28094.49,33595.75,Supplier-005,2024-06-24,Active
+827,Nike Headphones Model-0827,Electronics,Headphones,Nike,19548.34,29873.51,Supplier-021,2020-03-24,Active
+828,LG Makeup Model-0828,Beauty,Makeup,LG,41045.16,46908.89,Supplier-001,2020-10-22,Active
+829,Nike Men Clothing Model-0829,Fashion,Men Clothing,Nike,29644.0,37550.24,Supplier-029,2021-04-16,Active
+830,Boat Air Conditioners Model-0830,Home Appliances,Air Conditioners,Boat,1292.59,2181.3,Supplier-047,2024-01-17,Active
+831,HP Household Essentials Model-0831,Grocery,Household Essentials,HP,46328.65,72426.36,Supplier-016,2021-11-20,Active
+832,Philips Washing Machines Model-0832,Home Appliances,Washing Machines,Philips,33638.02,54279.29,Supplier-006,2025-07-01,Active
+833,NEXUS Fitness Equipment Model-0833,Sports,Fitness Equipment,NEXUS,39159.62,49984.05,Supplier-049,2021-08-10,Active
+834,Sony Packaged Food Model-0834,Grocery,Packaged Food,Sony,8442.15,10608.23,Supplier-032,2024-04-23,Active
+835,Adidas Sportswear Model-0835,Sports,Sportswear,Adidas,18913.15,33595.66,Supplier-038,2023-02-17,Active
+836,Whirlpool Microwaves Model-0836,Home Appliances,Microwaves,Whirlpool,24113.42,41004.0,Supplier-011,2024-10-01,Active
+837,Philips Haircare Model-0837,Beauty,Haircare,Philips,43228.44,66968.24,Supplier-015,2023-06-02,Active
+838,NEXUS Air Conditioners Model-0838,Home Appliances,Air Conditioners,NEXUS,38684.59,67576.45,Supplier-044,2022-06-07,Active
+839,Adidas Air Conditioners Model-0839,Home Appliances,Air Conditioners,Adidas,18836.01,27297.72,Supplier-023,2025-12-01,Active
+840,Dell Cricket Model-0840,Sports,Cricket,Dell,45364.32,75935.96,Supplier-015,2020-04-13,Active
+841,Lenovo Snacks Model-0841,Grocery,Snacks,Lenovo,39664.08,64497.16,Supplier-046,2021-08-10,Active
+842,Nike Sportswear Model-0842,Sports,Sportswear,Nike,5560.86,9424.2,Supplier-039,2024-11-26,Discontinued
+843,Adidas Accessories Model-0843,Fashion,Accessories,Adidas,8131.28,11862.94,Supplier-033,2022-07-22,Active
+844,HP Beverages Model-0844,Grocery,Beverages,HP,24554.8,31509.16,Supplier-036,2020-05-27,Active
+845,HP Beverages Model-0845,Grocery,Beverages,HP,11602.25,16357.94,Supplier-035,2024-02-15,Active
+846,Adidas Footwear Model-0846,Fashion,Footwear,Adidas,13554.75,21886.79,Supplier-020,2023-03-09,Active
+847,Apple Women Clothing Model-0847,Fashion,Women Clothing,Apple,49789.92,86269.16,Supplier-030,2022-06-30,Active
+848,LG Haircare Model-0848,Beauty,Haircare,LG,39627.53,49254.59,Supplier-017,2025-12-23,Active
+849,Adidas Makeup Model-0849,Beauty,Makeup,Adidas,49453.56,69886.49,Supplier-041,2022-06-15,Active
+850,Sony Men Clothing Model-0850,Fashion,Men Clothing,Sony,48459.33,59950.4,Supplier-005,2021-03-14,Active
+851,Sony Makeup Model-0851,Beauty,Makeup,Sony,5781.56,9840.28,Supplier-027,2022-10-30,Active
+852,Boat Fragrances Model-0852,Beauty,Fragrances,Boat,45528.67,76828.94,Supplier-003,2023-12-22,Active
+853,Adidas Skincare Model-0853,Beauty,Skincare,Adidas,31141.74,36149.24,Supplier-035,2022-07-02,Active
+854,Adidas Washing Machines Model-0854,Home Appliances,Washing Machines,Adidas,19833.75,32541.32,Supplier-042,2024-03-03,Active
+855,Adidas Laptops Model-0855,Electronics,Laptops,Adidas,38135.08,50092.69,Supplier-049,2020-08-13,Active
+856,Samsung Microwaves Model-0856,Home Appliances,Microwaves,Samsung,3994.23,5045.15,Supplier-013,2021-07-22,Active
+857,LG Sportswear Model-0857,Sports,Sportswear,LG,1700.38,3032.39,Supplier-030,2022-07-24,Discontinued
+858,Whirlpool Beverages Model-0858,Grocery,Beverages,Whirlpool,6391.96,8955.57,Supplier-003,2024-06-13,Active
+859,Lenovo Outdoor Model-0859,Sports,Outdoor,Lenovo,37304.16,51841.08,Supplier-015,2020-01-04,Active
+860,HP Accessories Model-0860,Electronics,Accessories,HP,48585.96,80879.76,Supplier-035,2024-07-27,Active
+861,Adidas Household Essentials Model-0861,Grocery,Household Essentials,Adidas,47710.41,71207.64,Supplier-007,2021-11-23,Active
+862,Samsung Men Clothing Model-0862,Fashion,Men Clothing,Samsung,48511.1,57732.85,Supplier-034,2023-06-04,Active
+863,Whirlpool Kitchen Appliances Model-0863,Home Appliances,Kitchen Appliances,Whirlpool,9582.88,10636.56,Supplier-037,2022-09-29,Active
+864,Sony Makeup Model-0864,Beauty,Makeup,Sony,6512.19,10440.99,Supplier-039,2023-04-02,Active
+865,Sony Football Model-0865,Sports,Football,Sony,43641.71,68180.76,Supplier-004,2020-11-30,Active
+866,Whirlpool Fitness Equipment Model-0866,Sports,Fitness Equipment,Whirlpool,19876.78,26357.51,Supplier-013,2022-04-05,Active
+867,Prestige Household Essentials Model-0867,Grocery,Household Essentials,Prestige,41910.72,63972.03,Supplier-007,2024-03-25,Active
+868,Samsung Fitness Equipment Model-0868,Sports,Fitness Equipment,Samsung,17013.84,30561.21,Supplier-025,2023-04-16,Active
+869,Prestige Cricket Model-0869,Sports,Cricket,Prestige,20700.96,27599.74,Supplier-010,2022-02-24,Active
+870,Philips Accessories Model-0870,Fashion,Accessories,Philips,7651.81,11548.78,Supplier-004,2025-11-28,Active
+871,NEXUS Accessories Model-0871,Fashion,Accessories,NEXUS,10035.55,12164.93,Supplier-003,2020-02-22,Active
+872,Whirlpool Packaged Food Model-0872,Grocery,Packaged Food,Whirlpool,46770.76,57660.72,Supplier-037,2020-11-27,Active
+873,Sony Accessories Model-0873,Fashion,Accessories,Sony,5973.06,10272.98,Supplier-002,2024-02-04,Active
+874,Samsung Beverages Model-0874,Grocery,Beverages,Samsung,38151.02,58607.99,Supplier-001,2023-06-27,Active
+875,LG Cricket Model-0875,Sports,Cricket,LG,25193.67,42404.31,Supplier-010,2022-09-02,Active
+876,NEXUS Smart Watches Model-0876,Electronics,Smart Watches,NEXUS,38227.01,42607.94,Supplier-040,2025-07-08,Active
+877,Lenovo Beverages Model-0877,Grocery,Beverages,Lenovo,26628.77,30569.83,Supplier-048,2021-01-22,Active
+878,NEXUS Men Clothing Model-0878,Fashion,Men Clothing,NEXUS,45747.49,81467.72,Supplier-048,2025-06-30,Active
+879,Dell Accessories Model-0879,Fashion,Accessories,Dell,1404.4,2467.19,Supplier-041,2021-09-24,Active
+880,Dell Household Essentials Model-0880,Grocery,Household Essentials,Dell,42793.74,60788.79,Supplier-044,2024-07-18,Active
+881,Samsung Haircare Model-0881,Beauty,Haircare,Samsung,48588.2,55162.54,Supplier-020,2023-09-30,Active
+882,LG Packaged Food Model-0882,Grocery,Packaged Food,LG,6809.72,8514.18,Supplier-021,2022-09-03,Active
+883,Prestige Headphones Model-0883,Electronics,Headphones,Prestige,43163.27,70912.74,Supplier-012,2023-11-18,Active
+884,Sony Haircare Model-0884,Beauty,Haircare,Sony,11486.49,13659.41,Supplier-050,2025-02-20,Active
+885,HP Men Clothing Model-0885,Fashion,Men Clothing,HP,33140.07,57502.27,Supplier-017,2025-10-08,Active
+886,Lenovo Makeup Model-0886,Beauty,Makeup,Lenovo,29096.79,49335.18,Supplier-027,2020-02-07,Active
+887,Samsung Smart Watches Model-0887,Electronics,Smart Watches,Samsung,21869.32,31901.21,Supplier-048,2024-04-19,Active
+888,Sony Smart Watches Model-0888,Electronics,Smart Watches,Sony,23310.89,28122.2,Supplier-043,2023-07-18,Active
+889,Philips Packaged Food Model-0889,Grocery,Packaged Food,Philips,12125.62,15108.26,Supplier-008,2024-12-23,Active
+890,Apple Laptops Model-0890,Electronics,Laptops,Apple,25715.52,38320.04,Supplier-007,2020-01-25,Active
+891,Philips Accessories Model-0891,Fashion,Accessories,Philips,26027.75,31788.05,Supplier-044,2022-05-04,Active
+892,Philips Microwaves Model-0892,Home Appliances,Microwaves,Philips,21525.76,26907.95,Supplier-010,2021-06-21,Active
+893,LG Women Clothing Model-0893,Fashion,Women Clothing,LG,20947.65,24158.85,Supplier-008,2022-11-24,Active
+894,Prestige Washing Machines Model-0894,Home Appliances,Washing Machines,Prestige,368.56,503.72,Supplier-025,2023-10-14,Active
+895,NEXUS Fragrances Model-0895,Beauty,Fragrances,NEXUS,36426.93,50367.0,Supplier-041,2021-09-11,Active
+896,Nike Smart Watches Model-0896,Electronics,Smart Watches,Nike,11981.11,14625.74,Supplier-002,2023-06-28,Active
+897,Lenovo Beverages Model-0897,Grocery,Beverages,Lenovo,48022.08,53721.31,Supplier-046,2021-02-14,Active
+898,Puma Makeup Model-0898,Beauty,Makeup,Puma,21653.84,31657.0,Supplier-050,2021-09-06,Active
+899,Nike Fragrances Model-0899,Beauty,Fragrances,Nike,37169.07,49876.71,Supplier-041,2021-02-24,Active
+900,Samsung Fragrances Model-0900,Beauty,Fragrances,Samsung,7453.65,10764.09,Supplier-044,2024-03-18,Active
+901,Apple Packaged Food Model-0901,Grocery,Packaged Food,Apple,34569.66,49064.78,Supplier-028,2023-05-22,Active
+902,Prestige Beverages Model-0902,Grocery,Beverages,Prestige,21707.24,32965.09,Supplier-041,2020-06-13,Active
+903,Whirlpool Air Conditioners Model-0903,Home Appliances,Air Conditioners,Whirlpool,47060.54,74769.84,Supplier-027,2023-02-11,Discontinued
+904,Adidas Beverages Model-0904,Grocery,Beverages,Adidas,35725.27,59389.18,Supplier-030,2024-04-01,Active
+905,Dell Accessories Model-0905,Fashion,Accessories,Dell,27968.82,34121.05,Supplier-004,2021-03-22,Active
+906,Philips Football Model-0906,Sports,Football,Philips,12433.33,21734.52,Supplier-011,2025-11-09,Active
+907,Dell Haircare Model-0907,Beauty,Haircare,Dell,13271.99,22748.66,Supplier-003,2023-03-24,Active
+908,Prestige Women Clothing Model-0908,Fashion,Women Clothing,Prestige,15722.27,18026.39,Supplier-032,2020-09-10,Discontinued
+909,Puma Haircare Model-0909,Beauty,Haircare,Puma,39783.54,56420.47,Supplier-036,2022-03-01,Active
+910,Lenovo Laptops Model-0910,Electronics,Laptops,Lenovo,37367.0,46134.06,Supplier-018,2022-02-20,Active
+911,HP Fragrances Model-0911,Beauty,Fragrances,HP,42014.02,67457.61,Supplier-041,2021-01-12,Active
+912,Prestige Headphones Model-0912,Electronics,Headphones,Prestige,9835.22,12513.25,Supplier-035,2023-06-19,Active
+913,Adidas Packaged Food Model-0913,Grocery,Packaged Food,Adidas,16992.46,29739.74,Supplier-028,2021-10-22,Active
+914,NEXUS Snacks Model-0914,Grocery,Snacks,NEXUS,19272.42,22155.25,Supplier-035,2024-02-09,Active
+915,NEXUS Outdoor Model-0915,Sports,Outdoor,NEXUS,21651.34,30636.05,Supplier-047,2024-04-11,Active
+916,Dell Haircare Model-0916,Beauty,Haircare,Dell,30641.2,48367.88,Supplier-003,2024-09-23,Active
+917,Samsung Makeup Model-0917,Beauty,Makeup,Samsung,6703.42,9256.66,Supplier-017,2025-05-05,Active
+918,Nike Skincare Model-0918,Beauty,Skincare,Nike,8297.79,12904.52,Supplier-020,2021-05-03,Active
+919,Boat Kitchen Appliances Model-0919,Home Appliances,Kitchen Appliances,Boat,21981.46,36511.72,Supplier-034,2025-07-11,Active
+920,HP Smartphones Model-0920,Electronics,Smartphones,HP,26532.85,34221.06,Supplier-023,2020-08-17,Active
+921,Apple Beverages Model-0921,Grocery,Beverages,Apple,17091.7,24481.64,Supplier-016,2022-04-27,Active
+922,LG Fitness Equipment Model-0922,Sports,Fitness Equipment,LG,9788.3,12986.88,Supplier-020,2022-03-03,Discontinued
+923,Puma Sportswear Model-0923,Sports,Sportswear,Puma,2429.49,3340.47,Supplier-001,2022-04-26,Active
+924,LG Skincare Model-0924,Beauty,Skincare,LG,31933.97,35999.57,Supplier-032,2020-05-11,Active
+925,Prestige Haircare Model-0925,Beauty,Haircare,Prestige,19840.72,33314.72,Supplier-003,2022-09-17,Active
+926,Puma Household Essentials Model-0926,Grocery,Household Essentials,Puma,910.51,1457.04,Supplier-001,2023-01-05,Active
+927,NEXUS Football Model-0927,Sports,Football,NEXUS,2312.21,3086.03,Supplier-049,2022-08-26,Active
+928,HP Packaged Food Model-0928,Grocery,Packaged Food,HP,49022.93,87525.69,Supplier-018,2020-10-03,Active
+929,Adidas Skincare Model-0929,Beauty,Skincare,Adidas,30916.95,38049.95,Supplier-036,2024-12-01,Active
+930,Puma Beverages Model-0930,Grocery,Beverages,Puma,32833.59,39320.83,Supplier-021,2023-10-09,Active
+931,Prestige Makeup Model-0931,Beauty,Makeup,Prestige,38942.91,59737.61,Supplier-017,2023-11-13,Discontinued
+932,Dell Accessories Model-0932,Electronics,Accessories,Dell,47640.95,53678.69,Supplier-025,2020-04-12,Active
+933,NEXUS Microwaves Model-0933,Home Appliances,Microwaves,NEXUS,29146.67,33858.42,Supplier-049,2024-04-08,Active
+934,HP Smart Watches Model-0934,Electronics,Smart Watches,HP,10989.46,13975.94,Supplier-013,2022-10-14,Active
+935,Apple Footwear Model-0935,Fashion,Footwear,Apple,39831.83,58706.7,Supplier-018,2022-06-18,Active
+936,Nike Football Model-0936,Sports,Football,Nike,13940.32,23282.26,Supplier-033,2021-01-25,Active
+937,Puma Packaged Food Model-0937,Grocery,Packaged Food,Puma,45533.18,75287.48,Supplier-011,2025-08-27,Active
+938,Prestige Headphones Model-0938,Electronics,Headphones,Prestige,30649.05,41472.77,Supplier-030,2023-05-20,Active
+939,Lenovo Smart Watches Model-0939,Electronics,Smart Watches,Lenovo,41369.46,52812.53,Supplier-007,2024-12-02,Active
+940,Puma Snacks Model-0940,Grocery,Snacks,Puma,919.15,1483.18,Supplier-035,2021-02-10,Active
+941,Puma Skincare Model-0941,Beauty,Skincare,Puma,1629.4,2586.27,Supplier-034,2021-11-09,Discontinued
+942,Samsung Accessories Model-0942,Fashion,Accessories,Samsung,15672.7,17804.14,Supplier-027,2025-06-22,Active
+943,NEXUS Makeup Model-0943,Beauty,Makeup,NEXUS,48987.81,81517.89,Supplier-050,2020-03-18,Active
+944,Lenovo Accessories Model-0944,Electronics,Accessories,Lenovo,22596.15,31906.42,Supplier-050,2024-09-22,Active
+945,NEXUS Football Model-0945,Sports,Football,NEXUS,32605.9,51605.76,Supplier-027,2020-04-27,Active
+946,Samsung Accessories Model-0946,Fashion,Accessories,Samsung,7171.19,10079.07,Supplier-009,2023-09-22,Active
+947,Samsung Packaged Food Model-0947,Grocery,Packaged Food,Samsung,7121.58,9686.7,Supplier-028,2021-07-08,Active
+948,LG Fitness Equipment Model-0948,Sports,Fitness Equipment,LG,19161.57,22542.75,Supplier-018,2022-01-03,Active
+949,Boat Packaged Food Model-0949,Grocery,Packaged Food,Boat,14421.62,21780.09,Supplier-034,2023-11-09,Active
+950,Philips Air Conditioners Model-0950,Home Appliances,Air Conditioners,Philips,3776.16,4878.32,Supplier-050,2020-03-30,Active
+951,Sony Accessories Model-0951,Fashion,Accessories,Sony,45417.9,71761.83,Supplier-003,2020-06-23,Active
+952,Prestige Sportswear Model-0952,Sports,Sportswear,Prestige,39394.45,69658.09,Supplier-009,2021-01-18,Active
+953,Samsung Men Clothing Model-0953,Fashion,Men Clothing,Samsung,6783.7,12070.59,Supplier-040,2020-06-15,Discontinued
+954,Samsung Footwear Model-0954,Fashion,Footwear,Samsung,29215.99,36145.73,Supplier-026,2021-11-20,Active
+955,Samsung Sportswear Model-0955,Sports,Sportswear,Samsung,38716.58,69437.7,Supplier-020,2022-11-11,Active
+956,Lenovo Skincare Model-0956,Beauty,Skincare,Lenovo,25591.02,39326.14,Supplier-009,2021-03-20,Discontinued
+957,Philips Sportswear Model-0957,Sports,Sportswear,Philips,47754.76,58003.08,Supplier-011,2022-06-12,Active
+958,Prestige Headphones Model-0958,Electronics,Headphones,Prestige,9341.92,11746.01,Supplier-006,2024-01-24,Active
+959,Whirlpool Accessories Model-0959,Fashion,Accessories,Whirlpool,44593.12,70639.35,Supplier-041,2020-02-04,Active
+960,Samsung Beverages Model-0960,Grocery,Beverages,Samsung,39546.14,63180.8,Supplier-012,2020-03-11,Active
+961,Whirlpool Headphones Model-0961,Electronics,Headphones,Whirlpool,11576.71,15506.38,Supplier-020,2022-09-28,Active
+962,Nike Kitchen Appliances Model-0962,Home Appliances,Kitchen Appliances,Nike,17408.27,27001.15,Supplier-009,2022-05-06,Active
+963,Prestige Outdoor Model-0963,Sports,Outdoor,Prestige,25570.66,31741.06,Supplier-001,2024-11-29,Active
+964,Philips Headphones Model-0964,Electronics,Headphones,Philips,22612.92,38062.26,Supplier-012,2024-12-14,Active
+965,LG Accessories Model-0965,Electronics,Accessories,LG,2702.78,4397.66,Supplier-035,2025-06-13,Active
+966,LG Haircare Model-0966,Beauty,Haircare,LG,37561.94,45203.42,Supplier-018,2020-08-16,Active
+967,Whirlpool Haircare Model-0967,Beauty,Haircare,Whirlpool,25537.76,28456.0,Supplier-050,2024-08-28,Active
+968,Sony Smart Watches Model-0968,Electronics,Smart Watches,Sony,48140.94,83807.16,Supplier-007,2025-03-14,Active
+969,Boat Fitness Equipment Model-0969,Sports,Fitness Equipment,Boat,24589.61,28325.37,Supplier-036,2020-03-16,Active
+970,Dell Men Clothing Model-0970,Fashion,Men Clothing,Dell,16778.08,22703.56,Supplier-024,2022-08-13,Active
+971,Apple Smartphones Model-0971,Electronics,Smartphones,Apple,7587.83,11973.02,Supplier-032,2020-12-04,Active
+972,Apple Haircare Model-0972,Beauty,Haircare,Apple,22921.91,30308.67,Supplier-044,2023-09-17,Active
+973,Lenovo Refrigerators Model-0973,Home Appliances,Refrigerators,Lenovo,31408.1,48884.9,Supplier-007,2020-10-28,Active
+974,Prestige Snacks Model-0974,Grocery,Snacks,Prestige,14022.55,22438.44,Supplier-012,2021-04-18,Active
+975,HP Beverages Model-0975,Grocery,Beverages,HP,46486.88,52812.93,Supplier-002,2023-04-23,Active
+976,LG Women Clothing Model-0976,Fashion,Women Clothing,LG,45252.6,58220.65,Supplier-036,2025-04-01,Active
+977,Whirlpool Smart Watches Model-0977,Electronics,Smart Watches,Whirlpool,20614.05,24474.24,Supplier-035,2024-03-04,Active
+978,Samsung Fitness Equipment Model-0978,Sports,Fitness Equipment,Samsung,41565.15,70358.3,Supplier-011,2020-09-02,Active
+979,Boat Haircare Model-0979,Beauty,Haircare,Boat,27623.17,43889.02,Supplier-026,2023-08-10,Active
+980,HP Skincare Model-0980,Beauty,Skincare,HP,16864.7,29796.15,Supplier-031,2021-11-07,Active
+981,Samsung Microwaves Model-0981,Home Appliances,Microwaves,Samsung,32692.2,48465.68,Supplier-021,2020-10-21,Active
+982,Dell Haircare Model-0982,Beauty,Haircare,Dell,23925.89,39666.28,Supplier-011,2023-11-12,Active
+983,Puma Fitness Equipment Model-0983,Sports,Fitness Equipment,Puma,47125.11,63194.58,Supplier-045,2022-06-16,Active
+984,Samsung Headphones Model-0984,Electronics,Headphones,Samsung,33166.77,37563.24,Supplier-039,2021-03-19,Active
+985,Lenovo Beverages Model-0985,Grocery,Beverages,Lenovo,40751.23,59739.18,Supplier-028,2021-01-19,Active
+986,NEXUS Smartphones Model-0986,Electronics,Smartphones,NEXUS,9584.02,12731.58,Supplier-034,2020-04-17,Active
+987,NEXUS Fitness Equipment Model-0987,Sports,Fitness Equipment,NEXUS,44696.09,52051.56,Supplier-004,2022-11-05,Active
+988,Sony Outdoor Model-0988,Sports,Outdoor,Sony,25618.07,39079.27,Supplier-039,2024-03-22,Active
+989,Adidas Cricket Model-0989,Sports,Cricket,Adidas,12568.3,20210.29,Supplier-026,2021-04-09,Active
+990,Whirlpool Haircare Model-0990,Beauty,Haircare,Whirlpool,9689.66,16191.64,Supplier-044,2020-07-12,Active
+991,Puma Haircare Model-0991,Beauty,Haircare,Puma,9912.74,16315.12,Supplier-044,2023-11-10,Active
+992,Samsung Accessories Model-0992,Electronics,Accessories,Samsung,16627.96,26378.31,Supplier-046,2020-02-20,Active
+993,Prestige Fragrances Model-0993,Beauty,Fragrances,Prestige,43803.68,55124.43,Supplier-050,2024-10-14,Active
+994,Nike Skincare Model-0994,Beauty,Skincare,Nike,34667.83,55468.6,Supplier-026,2022-12-18,Active
+995,Boat Footwear Model-0995,Fashion,Footwear,Boat,17591.88,22086.79,Supplier-004,2020-06-28,Active
+996,Philips Fragrances Model-0996,Beauty,Fragrances,Philips,30493.17,43007.78,Supplier-012,2025-04-27,Active
+997,Philips Headphones Model-0997,Electronics,Headphones,Philips,29808.27,34098.78,Supplier-024,2023-12-03,Active
+998,Adidas Smart Watches Model-0998,Electronics,Smart Watches,Adidas,10216.89,15593.9,Supplier-032,2022-10-21,Active
+999,Samsung Men Clothing Model-0999,Fashion,Men Clothing,Samsung,33378.79,53552.97,Supplier-022,2024-08-18,Active
+1000,Prestige Makeup Model-1000,Beauty,Makeup,Prestige,28924.32,35293.76,Supplier-011,2024-01-17,Active
