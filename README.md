@@ -1,4 +1,4 @@
-                                                  # 🚀 NEXUS
+                                                  #🚀 NEXUS
 ### Retail Business Intelligence & Analytics Platform
 
 **From synthetic retail data to business insights**
