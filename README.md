@@ -1,9 +1,3 @@
-<img width="887" height="497" alt="C:\Users\avani\Downloads\NEXUS.png" />
-# 🚀 NEXUS — Retail Business Intelligence & Analytics Platform
-
-> An end-to-end Retail Business Intelligence and Analytics project that transforms retail transaction data into meaningful business insights using Python, Pandas, Power BI, Data Modeling, and DAX.
-<div align="center">
-
 # 🚀 NEXUS
 ### Retail Business Intelligence & Analytics Platform
 
