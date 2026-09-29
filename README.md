@@ -1,4 +1,5 @@
-<img width="887" height="497" alt="image" src="https://github.com/user-attachments/assets/1e51c1e1-0556-4d83-8738-d0ca9858c911" /># 🚀 NEXUS — Retail Business Intelligence & Analytics Platform
+<img width="887" height="497" alt="C:\Users\avani\Downloads\NEXUS.png" />
+# 🚀 NEXUS — Retail Business Intelligence & Analytics Platform
 
 > An end-to-end Retail Business Intelligence and Analytics project that transforms retail transaction data into meaningful business insights using Python, Pandas, Power BI, Data Modeling, and DAX.
 <div align="center">
@@ -28,7 +29,7 @@
 
 <div align="center">
 
-<img src=C:\Users\avani\Downloads\NEXUS.png>
+<img src="C:\Users\avani\Downloads\NEXUS.png">
 
 **NEXUS Executive Dashboard — Retail Business Performance Overview**
 
