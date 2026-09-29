@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="dashboard/dashboard_preview.png" alt="NEXUS Executive Dashboard" width="100%">
+<img src=C:\Users\avani\Downloads\NEXUS.png>
 
 **NEXUS Executive Dashboard — Retail Business Performance Overview**
 
