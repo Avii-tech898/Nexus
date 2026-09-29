@@ -2,6 +2,17 @@
 
 > An end-to-end Retail Business Intelligence and Analytics project that transforms retail transaction data into meaningful business insights using Python, Pandas, Power BI, Data Modeling, and DAX.
 
+ NEXUS — Retail Business Intelligence & Analytics Platform
+
+From synthetic retail data to business insights: Python → Pandas → Data Validation → CSV → Power Query → Data Modeling → DAX → Power BI
+
+
+
+
+
+
+
+
 📌 Project Overview
 
 NEXUS is an end-to-end Retail Business Intelligence and Analytics project designed to simulate a real-world retail data environment and convert raw transactional data into business-ready insights.
